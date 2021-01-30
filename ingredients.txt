@@ -1,0 +1,990 @@
+Ingredients-1	Ingredients-2	Ingredients-3	Ingredients-4	Ingredients-5	ingredient-6
+ Light Rum	 Passion Fruit Syrup		 Lemon Juice	 Lime Juice
+ Light Rum	 Sweet Vermouth		 Juice of Orange	 Juice of a Lime
+ Apple schnapps	 Cinnamon schnapps		 Apple slice
+ Juice of a Lime	 Powdered Sugar		 Light Rum
+ Dark rum	 Cranberry Juice		 Pineapple Juice	 Orange curacao
+ Bourbon whiskey	 Fresh lemon juice		 Simple Syrup	 Soda water
+ Light Rum	 cherry-flavored brandy		 Light cream
+ Light Rum	 Lime Juice		 Triple Sec	 Maraschino
+ Light Rum	 Creme de banana		Chilled Champagne
+ Amaretto	 Fresh lemon juice		 Simple Syrup	 Soda water
+ Scotch Whiskey	 Fresh carrot juice		 Tawny port	 Fresh lemon juice
+ Bacardi Rum	 Juice of a Lime		 Grenadine
+ Light Rum	 Sweet Vermouth		 Apple Brandy	 Grenadine
+ Brandy	 Gin		 Anisette	 Sweet Vermouth
+ Gin	 Orange Juice		 Dry Vermouth	 Sweet Vermouth
+ Gin	 Apricot Flavored Brandy		 Dry Vermouth	 Lemon Juice
+ Amaretto	 White creme de menthe
+ Gin	 Dry Vermouth		 Apricot Flavored Brandy	 Lemon Juice
+ Juice of a Lime	 Apricot Flavored Brandy		 Dry Vermouth	 Gin
+ Sloe gin	 Gin		 Grenadine
+ Bourbon whiskey	 Green creme de menthe		 Fresh Lime Juice	 Simple Syrup	 Soda water
+ Sweet Vermouth	 Dry Vermouth		 Gin
+ Gin	 Dry Vermouth		 Orange Juice
+ Tanqueray gin	 Margarita Mix		 Triple Sec
+ Amaretto	 Fresh lemon juice		 Simple Syrup	 Orange half-wheel
+ Gin	 Sweet Vermouth		 Green Chartreuse	 Orange Bitters
+ Gin	 Triple Sec		 Orange Juice
+ Sweet Vermouth	 Gin		 Bitters
+ Lemon Juice	 Green Chartreuse		 Gin
+ Gin	 Sweet Vermouth		 Dry Vermouth
+ Straight rye whiskey	 Benedictine		 Fresh lemon juice	 Honey Syrup	 Angostura Bitters
+ Gin	 Orange Bitters		 Triple Sec
+ Gin	 Dry Vermouth		 Grenadine
+ Gin	 Dry Vermouth		 Triple Sec
+ Sweet Vermouth	 Dry Vermouth		 Gin	 Bitters
+ Grenadine	 Gin		 Lemon Juice
+ Amaretto	 Fresh lemon juice		 Simple Syrup	 Soda water
+ Green Chartreuse	 Sweet Vermouth		 Gin
+ Irish Whiskey	 Ginger ale or soda water		 Lemon twist (optional)
+ Brandy	 orgeat or almond syrup		 Angostura Bitters	 Lemon twist
+ Dry Vermouth	 Gin		 Grenadine
+ Juice of a Lemon	 Apricot Flavored Brandy		 Gin
+ Gin	 Dry Vermouth		 Orange Bitters
+ Amaretto	 half-and-half
+ Orange	 Pineapple 		 Gin	 Sweet Vermouth
+ Sweet Vermouth	 Dry Vermouth		 Gin
+ Irish Whiskey	 Triple Sec		 Anisette	 Maraschino liqueur	 Green olive
+ Absinthe	 Simple Syrup		 Orange Bitters
+ Gin	 Dry Vermouth		 Sweet Vermouth	 Bitters
+ Gin	 Anisette
+ Gin	 White creme de menthe		 Juice of a Lemon	 Chilled Champagne
+ Irish Whiskey	 Light Rum		 Sloe gin	 Fresh lemon juice	 Fresh raspberries and strawberries, 2 peach slices, maraschino cherry
+ Gin	 Lemon Juice		 Maraschino
+ Gin	 Dry Vermouth		 Sweet Vermouth
+ Gin	 Dry Vermouth
+ Juice of a Lime	 Gin		 Ginger ale
+ Irish Whiskey	 Fresh Lime Juice		 Soda water	 Lime wedge
+ Gin	 Triple Sec		 Lemon Juice
+ Sweet Vermouth	 Gin
+ Gin	 Juice of a Lemon		 Ginger ale
+ Juice of a Lemon	 Gin		 Ginger ale
+ Rye or bourbon whiskey	 Apple cider		 Apple slice
+ Light Vermouth	 Dry Vermouth		 Gin	 Bitters
+ Anisette	 Gin		 Dry Vermouth	 Creme de Menthe (White)
+ Kummel	 Gin		 Apricot Flavored Brandy	 Lemon Juice
+ Bourbon or Rye Whiskey	 Light Rum		 Fresh lemon juice	 Simple Syrup
+ Gin	 Sweet Vermouth		 Anisette
+ Dry Vermouth	 Sweet Vermouth		 Gin
+ Tennessee whiskey	 Fernet-Branca		 Cola
+ Sweet Vermouth	 Dry Vermouth		 Gin
+ Dry Vermouth	 Gin
+ Gin	 Pineapple Juice		 Triple Sec
+ Vodka	 Coffee liqueur		 Milk or half-and-half
+ Gin	 Grapefruit Juice
+ Gin	 Green creme de menthe		 Lime Juice
+ Gin	 Green creme de menthe		 Lemon Juice
+ Grapefruit Juice	 Gin		 Maraschino
+ Fresh rosemary sprig	 Irish Whiskey		 Benedictine	 Triple Sec
+ Brandy	 Triple Sec		 Lemon or Orange Sherbet
+ Powdered Sugar	 Water		 Juice of a Lemon	 Gin
+ Powdered Sugar	 Gin		 Milk
+ Wide spiral of lemon zest	 Bourbon whiskey		 Ginger ale
+ Gin	 Sweet Vermouth
+ Gin	 Bitters
+ lemon-flavored vodka	 Fresh lemon juice		 Simple Syrup	 Fresh mint leaves
+ Lime Juice	 Powdered Sugar		 Gin
+ Juice of a Lemon	 Powdered Sugar		 Gin	 Dark rum	 Club Soda
+ Gin	 Dry Vermouth		 Apricot Flavored Brandy	 Triple Sec	 Gin & ginger ale
+ Juice of a Lime	 Gin & ginger ale		 Gin	 Triple Sec
+ Gin	 Triple Sec
+ Blended Scotch Whiskey	 Sweet Vermouth		 Benedictine	 Lemon twist
+ Gin	 Dry Vermouth
+ Apricot Flavored Brandy	 Dry Vermouth		 Gin	 Lemon Juice
+ Gin	 Dry Vermouth		 Sweet Vermouth	 Bitters
+ Vodka	 Blackberry-flavored brandy		 Dry Vermouth	 Fresh lemon juice
+ Gin	 Green creme de menthe		 Bitters
+ Bitters	 Dry Vermouth		 Anisette	 Gin
+ Gin	 Dry Vermouth
+ Juice of Orange	 Anisette		 Dry Vermouth	 Gin
+ Orange Bitters	 Dry Vermouth		 Gin
+Blended Scotch Whiskey	 Dry Vermouth		 Fresh lemon juice	 Orange Bitters
+ Vodka	 White creme de menthe
+ Gin	 Dry Vermouth		 Green creme de menthe
+ Juice of Orange	 Gin		 Ginger ale
+ Gin	 Light Rum		 Dry Vermouth
+ Gin	 Dry Vermouth		 Juice of a Lime
+ Gin	 Dry Vermouth		 Juice of Orange
+ White whiskey	 Grand Marnier		 Dry Sherry	 Lavender Syrup
+ Gin	Juice of Lemon or Lime		 Maraschino	 Blue curacao
+ Gin	 Grapefruit Juice		 Blue curacao
+ Gin	 Triple Sec		 Bitters
+ Dry Vermouth	 Sweet Vermouth		 Gin
+ Juice of a Lime	 Gin		 Club Soda
+ Gin	 Green Chartreuse		 Sweet Vermouth	 Orange Bitters
+ Gin	 Apricot Flavored Brandy		 Grenadine
+ Vodka	 Vodka		 Fresh lemon juice	 Simple Syrup
+ Gin	 Apricot Flavored Brandy		 Anisette	 Lemon Juice
+ Dry gin	 Green creme de menthe		 Light cream
+ Blended Scotch Whiskey	 Simple Syrup		 Soda water or ginger ale	 Lemon and/or orange zest spiral(s)
+ Gin	 Creme de Cacao (White)		 Light cream
+ Forbidden Fruit	 Gin		 Brandy	 Lemon Juice
+ Vodka	 Fresh lemon juice		 Simple Syrup	 Orange twist
+ Applejack	 Fresh Lime Juice		 Grenadine
+ Port	 Apricot Flavored Brandy
+ Apple Brandy	 Brandy		 Anisette
+ Vodka	 Green creme de menthe		 White creme de cacao	 half-and-half
+ Juice of a Lemon	 Powdered Sugar		 Gin	 Club Soda
+ Brandy	 Bitters		 Lemon Juice	 Pineapple Juice
+ Straight rye whiskey	 Pimm's No. 1 Cup		 Dubonnet Rouge	 Peach bitters
+ Brandy	 Blackberry-flavored brandy		 Dry Sherry	 Lemon Juice
+ Vodka	 Fresh Lime Juice		 Simple Syrup
+ Maraschino	 cherry-flavored brandy
+ Brandy	 Apple Brandy		 Apricot Flavored Brandy
+ Coffee-flavored brandy	 Creme de Cacao (White)		 Light cream
+ Single-malt Scotch whisky	 Maraschino liqueur		 Triple Sec	 Apple juice	 Angostura Bitters
+ Hennessy V.S Cognac	 Lemon Juice
+ Vodka	 Fresh lemon juice		 Simple Syrup	 Grenadine
+ Single-malt Scotch whisky	 Pedro Ximenez sherry		 Fresh lemon juice	 Honey Syrup
+ Juice of a Lemon	 Curacao		 Maraschino	 Brandy
+ cherry-flavored brandy	 Juice of a Lemon
+ Juice of a Lemon	 cherry-flavored brandy		 Club Soda
+ Vodka	 Simple Syrup		 Soda water or ginger ale	 Orange and/or lemon zest spiral
+ Brandy	 Sweet Vermouth
+ Creme de Menthe (White)	 Apricot Flavored Brandy		 Anisette	 Brandy
+ Brandy	 Hard cider
+ Brandy	 Gin		 Dry Vermouth
+ Blended Scotch Whiskey	 Fresh lemon juice		 Agave nectar	 Absinthe
+ Brandy	 Powdered Sugar		 Grenadine	 Club Soda
+ Brandy	 Club Soda
+ Powdered Sugar	 Brandy		 Milk
+ Vodka	 Fresh lemon juice		 Simple Syrup	 Soda water
+ Maraschino	 Bitters		 Lemon Juice	 Triple Sec
+ Blended Scotch Whiskey	 Strawberry liqueur		 Chilled sparkling wine	 Whole strawberry
+ Applejack	 maple syrup (grade B or medium-amber)		 Aromatic bitters	 Cinnamon stick
+ Creme de Cacao (Brown)	 Brandy		 Heavy cream
+ Vodka	 Tonic water		 Lemon or lime wedge
+ Juice of a Lemon	 Juice of Orange		 Apricot Flavored Brandy	 Gin
+ Creme de Cacao (White)	 Brandy		 Light cream
+ Apricot Flavored Brandy	 Triple Sec		 Juice of a Lime
+ Straight rye whiskey	 Lillet Blanc		 Apple Brandy	 Green Chartreuse	 Orange twist
+ Bourbon	 Triple Sec		 Lemon Juice	 Grenadine
+ Vodka	 Apple juice
+springs mint	 Powdered Sugar		 Water	 Bourbon
+ Bourbon	 Collins Mix		 Lime Juice
+ Straight rye whiskey	 Kirschwasser		 Cynar	 Amaro
+ Bourbon	 Brandy		 Creme de Menthe	 Club Soda
+ Powdered Sugar	 Bourbon
+ Vodka	 Unsweetened Grape Juice		 Fresh lemon juice	 Simple Syrup
+ Bourbon	 Cold Water
+ Bourbon	 Lemon Juice
+Bourbon	 Water		 Grapefruit Juice	 Almond extract
+ Bourbon	 Yellow Chartreuse
+ Straight rye whiskey	 Orange Juice		 Sweet Vermouth	 Angostura Bitters	 Lemon twist
+ Pineapple Juice	 Peach schnapps		 Lemon Juice
+ Vodka	 Applejack		 Simple Syrup	 Fresh lemon juice
+ Bourbon whiskey	 Fresh lemon juice		 Sweet Vermouth	 Angostura Bitters	 Maraschino cherry
+ Bourbon whiskey	 Mr. Boston Gin		 Honey Syrup
+ Sake	 Amaretto
+ Blended Scotch Whiskey	 Pineapple Juice
+ Applejack	 Mr. Boston Five Star Brandy		 Angostura Bitters
+ Amaretto di Saronno	 Coconut Milk		 Light cream
+ Amaretto di Saronno			 Crushed Pineapple
+ Amaretto di Saronno	 Roses Lime Juice
+ Amaretto di Saronno	 Pear brandy		 Club Soda
+ Blended Scotch Whiskey	 Fresh lemon juice		 Grapefruit Juice	 Amaro	 Lemon twist
+ Bourbon or Rye Whiskey	 Sweet Vermouth		 Fresh Lime Juice	 Benedictine
+ Straight rye whiskey	 Coffee liqueur		 Yellow Chartreuse	 Fernet-Branca
+ Bourbon whiskey	 Dark creme de cacao		 Fresh lemon juice	 orgeat or almond syrup	 Lemon twist
+ Bourbon or Rye Whiskey	 Sweet Vermouth		 Angostura Bitters
+ Blended Scotch Whiskey	 Maraschino liqueur		 Angostura Bitters	 Simple Syrup
+ Straight rye whiskey	 Dry Vermouth		 Green Chartreuse	 Fresh lemon juice
+ Mr. Boston Gin	 Angostura Bitters
+ Bourbon or rye whiskey	 Lemon Juice		 Triple Sec	 Simple Syrup
+ Mandarine Napoleon Liqueur
+ Mandarine Napoleon Liqueur	 Mango-flavored vodka
+ Lime wedge, Sweet Chili Powder	 Maraschino liqueur		 Peach liqueur	 Fresh Lime Juice	 Ginger ale
+ Bourbon whiskey	 Benedictine		 Angostura Bitters	 Orange Bitters
+ Apple Brandy	 Fresh Lime Juice		 Fresh lemon juice	 Triple Sec
+ Vodka	 Green creme de menthe		 Lime wedge	 Lemon-lime soda
+ Irish Whiskey	 Cynar		 Green Chartreuse	 Green olive
+ Aquavit or vodka	 Creme de banana		 Dry Sherry	 Peach bitters
+ Vodka	 Bourbon whiskey		 Orange juice
+ Fresh strawberries, cut in halves	 Fresh grapefruit juice		 Vanilla liqueur	 Triple Sec
+ Straight rye whiskey	 Citrus-flavored vodka		 Maple Syrup	 Grapefruit twist
+ Lemon wedge, Cinnamon Sugar	 Orange juice		 Limoncello	 Amaretto	 Egg White
+ Bourbon whiskey	 Mr. Boston Gin		 Fresh Lime Juice	 orgeat or almond syrup	 Orange and lime wheels
+ Kummel	 Cherry Heering		 Mr. Boston Apricot Flavored Brandy	 Lemon Juice
+ Single-malt Scotch whisky	 Port		 Punt e Mes	 Orange Bitters
+ Blended Scotch Whiskey	 Simple Syrup		 Demerara Syrup	 Almond milk	 Freshly grated nutmeg
+ Apple Brandy	 Dubonnet Rouge		 Soda water or ginger ale	 Orange and/or lemon zest spiral
+ Straight rye whiskey	 Absinthe Substitute		 Fernet-Branca	 Elderflower liqueur
+ Mr. Boston Triple Sec	 Sweet Vermouth		 Maraschino	 Bitters
+ Irish Whiskey	 Gin		 Grand Marnier	 Orange Bitters
+ Rye or bourbon whiskey	 White creme de menthe		 Fresh lemon juice	 White creme de menthe	 Simple Syrup
+ Bourbon whiskey	 Mountain Dew		 Triple Sec	 Simple Syrup
+ Georgia Moon Corn Whiskey	 Grand Marnier
+ Orange-flavored vodka	 Slice peeled fresh ginger		 Passion Fruit Juice	 Fresh Lime Juice	 Fresh raspberry
+ Fresh cilantro leaves	 Grenadine		 Citrus-flavored vodka	 Limoncello
+ Juice of a Lime	 Mint syrup
+ Citrus-flavored vodka	 Orange-flavored vodka		 Fresh lemon juice	 Thyme sprig	 Long thyme sprigs
+ Dubonnet Rouge	 Mr. Boston Vodka		 Orange Bitters	 Lemon twist
+ Amaretto di Saronno	 Amaretto		 Heavy cream
+ Vodka	 Straight rye whiskey		 half-and-half
+ Absinthe	 Sweet Vermouth		 Sweet Vermouth	 Maraschino liqueur
+ Brandy	 Mr. Boston Gin		 Fresh lemon juice	 Grenadine
+ Powdered Sugar	 Sweet Vermouth		 Milk
+ Vodka	 Fresh lemon juice		 Fresh orange juice	 Fresh lemon juice	 Orange half-wheel, maraschino cherry
+ Bourbon whiskey	 Amaretto di Saronno		 Simple Syrup	 Fresh mint leaf
+Hot Tea	 Rose water		 Whipped cream
+ Orange-flavored vodka	 Mezcal		 Lillet Blanc	 Black raspberry liqueur
+ Straight rye whiskey	 Dubonnet Rouge		 Amaro	 Aperol	 Orange twist, flamed
+ Straight rye whiskey	 Absinthe Substitute		 Triple Sec	 Angostura Bitters
+ Old Thompson Blended Whiskey	 Sloe gin
+ Citrus-flavored vodka	 Benedictine		 Simple Syrup	 Fresh lemon juice
+ Bourbon whiskey	 Citrus-flavored vodka		 Angostura Bitters	 Lemon twist
+ Lemon wedge, superfine sugar	 Dry Vermouth		 Simple Syrup	 Fresh lemon juice
+ Straight rye whiskey	 Peach schnapps		 White creme de menthe	 Fresh lemon juice
+ Vodka	 Brandy		 Fresh orange juice	 half-and-half
+ Absinthe or pastis	 Sweet Vermouth		 Peach bitters	 Lemon twist
+ Straight rye whiskey	 Ginger liqueur		 Benedictine	 Absinthe or pastis	 Maraschino cherry
+ Single-malt Scotch whisky	 Amontillado sherry		 Lemon twist
+ Vodka	 Fresh lemon juice		 Dry Vermouth	 Lemon twist
+ Tennessee whiskey	 Light Rum		 Simple Syrup	 Triple Sec	 Orange and lemon wheels
+ Vodka	 Madeira		 Creme de banana	 Pineapple Juice	 Cranberry Juice
+ Bourbon whiskey	 carbonated water		 Grenadine	 Maraschino cherry
+powdered sugar	 White creme de cacao		 Mr. Boston Rum	ginger ale
+ Vodka	 Honey-Currant Syrup		 White creme de menthe	 half-and-half
+ Vanilla-Infused Bourbon	 Apricot-Flavored Brandy		 Fresh Lime Juice	 Egg White	 Stick of cotton candy
+ Apple Brandy	 Triple Sec		 Gin	 Fresh orange juice
+ Cognac	 Madeira		 Fresh lemon juice	 Vodka	 Fresh orange juice and orange wheel
+ Vodka	 White creme de cacao		 Fresh orange juice and orange wheel	 Bourbon Whiskey	 Fresh lemon juice
+ Bourbon Whiskey	 Cranberry Juice		 Fresh lemon juice	 Grenadine
+ Vodka	 Orange juice		 Fresh grapefruit juice	 Lime wedge
+ Vodka	 Simple Syrup
+ Bourbon whiskey	 Dry Vermouth		 Angostura Bitters	 Cold brewed coffee	 Orange wheel, maraschino cherry
+ Mr. Boston Gin	 Vodka
+ Lemon wedge, coarse salt	 Lemon Juice		 Grapefruit Juice
+ Mr. Boston Gin	 Dry Vermouth		 Maraschino	 Egg White
+ Mr. Boston Gin	 Tawny port
+ Bourbon whiskey	 Fresh Lime Juice		 Fresh lemon juice	 Vanilla liqueur and 3 oz	 Whole Egg and grated nutmet
+ Bourbon whiskey	 Orange liqueur		 Blackberry liqueur	 B & B
+ Vodka	 Amaretto		 Canned coconut milk	 Cold brewed chai tea	 Pineapple wedge
+ Bourbon whiskey	 Kirschwasser		 Benedictine	 Triple Sec	 Orange twist
+ Brandy	 White creme de cacao		 half-and-half	 orgeat or almond syrup
+ Vodka	 Coconut liqueur		 half-and-half
+ Scotch Whiskey	 Triple Sec		 Dry Sherry	 Grapefruit bitters
+ Grapefruit-flavored vodka	 Dry Sherry		 Fresh ruby red grapefruit juice	 Fresh orange juice
+ Bourbon whiskey	 Grapefruit-flavored vodka		 Ramazzotti Amaro	 Triple Sec	 Lemon twist
+For glass Lemon wedge, coarse salt	 Vodka		 Fresh lemon juice	 Grapefruit Juice	 Simple Syrup
+ Clementine or mandarin orange	 Triple Sec		 Fresh lemon juice	 Honey Syrup	 Chilled sparkling wine or Champagne
+ Bourbon whiskey	 Cranberry Juice		 Fresh lemon juice	 Orange twist
+ Vodka	 Dry Vermouth		 White creme de cacao
+ Blended Scotch Whiskey	 Hot Black Coffee		 Tawny port	 Peychaud's Bitters
+ Amaretto di Saronno	 Cognac
+ Straight rye whiskey	 Gin		 Sweet Vermouth	 Elderflower liqueur	 Peychaud's Bitters
+ cherry-flavored brandy	 Fresh lemon juice		 Dry Vermouth	 Fresh lemon juice
+ Strawberries, cut into halves	 Apple juice		 Simple Syrup	 Citrus-flavored vodka	 Strawberry
+ Vodka	 Orange juice		 Fresh lemon juice	 Grenadine
+ Blended Scotch Whiskey	 Triple Sec		 Fresh lemon juice	 Soda water
+ Canadian whisky	 Pomegranate juice		 Simple Syrup	 Angostura Bitters
+ Vodka	 Canadian whisky		 Grapefruit Juice	 Fresh Lime Juice	 Grapefruit twist
+ Maraschino liqueur	 Juice of Orange		 Maraschino liqueur	 Fresh lemon juice
+ Egg	 Light Rum		 Grenadine
+ Vodka	 Pineapple Juice		 Gin	 Black raspberry liqueur	 Fresh lemon juice and 3 oz
+ Canadian whisky	 Grapefruit Juice		 Fresh lemon juice	 Maraschino liqueur
+ Vodka	 Irish Whiskey		 Concord grape juice	 Simple Syrup
+ Blended Scotch Whiskey	 Simple Syrup		 Fresh lemon juice	 Orange Bitters
+ Mint sprigs	 Fresh lemon juice		 Brandy	 Peach-flavored brandy
+ Bourbon whiskey	 Mr. Boston Rum		 Fresh Lime Juice	 Simple Syrup	 Soda water, Orange and lemon wheels, maraschino cherry
+ Mr. Boston Five Star Brandy	 Fresh lemon juice		 Mr. Boston Triple Sec	 Juice of a Lime
+ Bourbon whiskey	 Orange curacao		 Simple Syrup	 Ginger ale
+ Bourbon whiskey	 Sweet Vermouth		 Fresh lemon juice	 Grenadine
+ Rye or bourbon whiskey	 Brandy		 Amer Picon or Torani Amer	 Maraschino liqueur
+ Bourbon whiskey	 Fresh lemon juice		 Benedictine	 Orange juice	 Soda water, orange and lemon wheels
+ Bourbon whiskey	 Ginger ale or soda water		 Creme de Cassis	 Simple Syrup
+ Bourbon whiskey	 Elderflower liqueur		 Lemon twist
+ Bourbon whiskey	 Bourbon whiskey		 Angostura Bitters	 Lemon twist
+ Lemon wedge, superfine sugar,  Long, wide spiral of orange zest	 Fresh lemon juice		 Triple Sec	 Maraschino liqueur	 Orange Bitters
+ Bourbon whiskey	 Sweet Vermouth		 Grapefruit Juice	 Orgeat Syrup
+ Brandy	 Dark creme de cacao		 Benedictine
+ Bourbon whiskey	 Fresh Lime Juice		 Vanilla liqueur
+ Bourbon whiskey	 Sweet Vermouth		 Simple Syrup	 Hot red pepper sauce
+ Blended Scotch Whiskey	 Tomato Juice		 Benedictine	 Lemon twist
+ Smoky Scotch whisky, such as Laphroaig	 Mr. Boston Gin		 V8 cocktail juice	 ketchup	 Simple Syrup, 3/4 oz
+ Vanilla Ice Cream	 cherry-flavored brandy
+ Blended Scotch Whiskey	 Grapefruit Juice		 Sweet Vermouth	 Orange juice
+ Straight rye whisky	 Juice of a Lemon		 Raspberry Syrup	 Grapefruit twist or skewered raspberry
+Cider	 Anisette		 Powdered Sugar	 Whole Egg
+ Irish Whiskey	 Grenadine		 Triple Sec	 Maraschino liqueur	 Orange twist, green olive
+ Lemon Juice	 Powdered Sugar		 Bitters	 Ginger ale
+ Juice of a Lemon	 Sloe gin		 Egg Yolk	 Water
+ Bourbon whiskey	 Powdered Sugar		 Maraschino cherry
+ Juice of a Lemon	 Straight rye whiskey		 Whole Egg
+ Cynar	 Powdered Sugar		 Dry Vermouth	 Maraschino liqueur
+ Juice of a Lemon	 Rhubarb Syrup		 Grenadine	 Brandy
+ Irish Whiskey	 Lillet Blanc		 Cold brewed green tea	 Edible flowers
+ Brandy	 White creme de menthe		 Lemon quarter-wheel
+ Gin	 Egg Yolk		 Egg White	 Lemon Juice
+ Vodka	 Cream sherry		 Orange Juice	 Sugar
+ Orange Juice	 Milk		 Brandy	 Light cream
+ Vanilla liqueur	 Light cream		 Orange Juice
+ Blended whiskey	 Dry Vermouth
+ Blended Scotch Whiskey	 Dubonnet		 Sweet Vermouth
+ Gin	 Maraschino		 Dry Vermouth
+ Lemon Juice	 Brandy		 Egg White	 Gin
+ Dry Vermouth	 Triple Sec		 Triple Sec	 Powdered Sugar
+ Bourbon whiskey	 Raspberry Ice Cream		 Fresh lemon juice
+ Raspberry Yogurt	 Tawny port		 White creme de cacao	 Vodka
+ Cognac	 Lemon Juice		 Anis	 Lemon Juice
+ Coffee-flavored brandy	 Powdered Sugar		 Powdered Sugar	 Egg White
+ Whole Egg	 Powdered Sugar		 Brandy	 Port
+ Whole Egg	 Concord grape juice		 Port	 Brandy
+ Vodka	 Sloe gin		 White creme de cacao
+ Sweet Vermouth	 Grenadine		 Muscatel Wine
+ Juice of a Lime	 Grenadine		 Egg White	 Gin
+ Juice of a Lemon	 Calvados		 Egg White	 Gin
+ Vodka	 Clam Juice		 Coffee liqueur	 Lemon twist
+ Vodka	 Powdered Sugar		 Tomato Juice
+ Whole Egg	 Dubonnet		 Milk
+ Juice of a Lime	 Powdered Sugar		 Gin
+ Whole Egg	 Yellow Chartreuse		 Sloe gin	 Brandy
+ Port	 Powdered Sugar		 Egg Yolk	 Powdered Sugar
+ Juice of a Lemon	 Cranberry Juice		 Egg White	 Port
+ Vodka	 Vodka		 Creme de noyaux	 Fresh lemon juice
+ Danish Cherry Wine	 Powdered Sugar		 Juice of a Lime
+ Whole Egg	 Cola		 cherry-flavored brandy	 Light Cream (if desired)
+ Cherry Vodka	 Vodka
+ Lime wedge, superfine sugar	 Sugar		 cherry-flavored brandy	 Fresh Lime Juice
+ Dark rum	 Chilled Champagne		 Bitters	 Milk
+ Chilled Stout	 Pineapple or grapefruit juice
+ Vodka	 Dry Vermouth		 Grenadine
+ Bourbon whiskey	 Pineapple Juice		 Pineapple Juice	 Ginger beer	 Fresh mint sprig
+ Canadian whisky	 Light Rum		 Lemon Juice	 Maraschino
+ Strega	 Triple Sec		 Passion Fruit Syrup	 Lemon Juice
+ Citrus-flavored vodka	 Brandy		 Fresh Lime Juice	 Fresh lemon juice	 Cranberry Juice, lemon wheel
+ Creme de Cacao (Brown)	 Amaretto		 Milk	 Egg Yolk
+ Hot Black Coffee	 Anis		 Whipped cream
+ Egg White	 White creme de cacao		 Light cream	 Gin
+ Bourbon whiskey	 Anisette		 Benedictine	 Hot red pepper sauce
+ Brandy	 Orange Juice		 Dry Vermouth
+ Hot Shot Tropical Fruit Liqueur	 Grapefruit Juice
+ Hot Shot Tropical Fruit Liqueur	 Egg White
+ Anisette	 Grenadine
+ Strawberry schnapps	 Apple Brandy
+ Straight rye whiskey	 Aquavit		 Sweet Vermouth	 Strega	 Orange twist
+ Vodka	 cherry-flavored brandy		 Dill pickle brine	 Angostura Bitters
+ Blended Scotch Whiskey	 Dubonnet		 Cranberry Juice
+ Orange Juice	 Dry Vermouth		 Dry Vermouth	 Bourbon
+ Vodka	 Powdered Sugar		 Sweet pickle brine	 Sweet pickle slice
+ Whole Egg	 Amaro		 Sloe gin	 Light Cream (if desired)
+ Bourbon whiskey	 Gin		 Creme de Cassis	 Orange Bitters
+ Vanilla Ice Cream	 Juice of a Lemon		 Carbonated Water
+ Egg White	 Straight rye whiskey		 Gin	 Powdered Sugar
+ Brown sugar cube, such as Demerara	 Powdered Sugar		 Applejack	 Orange twist
+ Juice of a Lemon	 Brandy		 Gin	 Egg White
+ Cream sherry	 Water		 Dry Vermouth	 Triple Sec
+ Powdered Sugar	 Cream sherry		 Cream sherry	 Carbonated Water
+ Powdered Sugar	 Triple Sec
+ Vodka	 Powdered Sugar		 Sweet Vermouth	 Orange juice
+ Whole Egg	 cream sherry		 Cream sherry	 Light Cream (if desired)
+ Tennessee whiskey	 Simple Syrup
+ Bourbon whiskey	 Dry Vermouth		 Angostura Bitters	 Chilled American sparkling wine
+ Powdered Sugar	 Whole Egg		 Blackberry-flavored brandy	 Fresh lemon juice
+ Egg White	 Light Rum		 Port	 Light Rum
+ Peach-flavored vodka	 Orange curacao		 Juice of a Lime	 Grenadine
+ Brandy	 Dry Vermouth		 Fresh lemon juice	 Honey Syrup	 Peach slice, lemon wheel
+ Scotch	 Egg Yolk		 White creme de menthe	 Maraschino liqueur
+ Straight rye whiskey	 Dry Vermouth		 Triple Sec	 Powdered Sugar
+ Juice of Orange	 Gin		 Pineapple Juice
+ Juice of a Lemon	 Powdered Sugar		 White creme de cacao	 Egg White
+ Vodka	 White creme de cacao		 Egg White	 Light cream
+ Brandy	 Worcestershire Sauce		 Fresh lemon juice
+ Gin	 Whole Egg		 Catsup	 Vinegar
+ Maraschino	 Egg Yolk		 Pepper and Salt
+ Applejack	 Light Rum		 Benedictine	 Brandy
+ Straight rye whiskey	 Ginger syrup		 Lime Juice	 Orgeat Syrup
+ Tequila	 Lemon Juice		 Cold brewed black tea, preferably Japanese	 Fresh lemon juice
+ Whole Egg	 Powdered Sugar		 Maraschino	 Egg White
+ powdered sugar	 carbonated water		 Port	 Light Cream (if desired)
+ Vodka	 Peach schnapps		shaved ice	 port
+ Blended Scotch Whiskey	 Dry Vermouth		 Peach puree	 Fresh lemon juice
+ Dry Vermouth	 Sweet Vermouth		 Sweet Vermouth	 Orange Bitters
+ Juice of a Lemon	 Egg White		 Orange Bitters
+ Vodka	 Fresh Lime Juice		 Sloe gin
+ Dubonnet	 Brandy		 Ginger beer	 Lime wedge
+ Straight rye whiskey	 Maraschino liqueur		 Anis
+ Dry Vermouth	 Gin		 Fresh lemon juice	 Orange Bitters
+ Juice of a Lemon	 Powdered Sugar		 Anis	 Dubonnet
+ Lemon Juice	 Powdered Sugar		 Light cream	 Gin
+ Chilled Passion Fruit Juice	 Chilled Champagne		 Gin	 Peach
+ Vodka	 Irish cream liqueur
+ Blended whiskey	 Bitters		 Coffee liqueur	 Cold brewed espresso coffee
+ Vodka	 Elderflower liqueur		 Lemon Juice
+ Egg White	 Lemon Juice		 Fresh lemon juice	 Simple Syrup	 Orange twist
+ Juice of a Lemon	 Powdered Sugar		 Dry Vermouth	 Sweet Vermouth
+ Straight rye whiskey	 Maraschino liqueur		 Egg White	 Anis
+ Brandy	 Triple Sec		 Orange Bitters	 Fresh lemon juice
+ Gin	 Lemon Juice		 Simple Syrup	 Angostura Bitters
+ Tequila	 Madeira		 Egg White	 Powdered Sugar
+ Vanilla-flavored vodka	 Fresh lemon juice		 Egg Yolk	 Crushed ice
+ Mint-Flavored Gin	 White Port Wine		 Butterscotch schnapps	 Limoncello
+ Juice of a Lemon	 Mint-Flavored Gin		 Dry Vermouth
+ Pineapple Juice	 Grenadine
+ Egg White	 Grenadine		 Egg White	 Sweet Vermouth
+ Irish Whiskey	 Applejack		 Triple Sec	 Blended whiskey
+ Powdered Sugar	 Blended whiskey		 Amaro Nonino	 Rye Whiskey	 Mole bitters 1 oz
+ Juice of Orange	 Juice of a Lemon		 Milk
+ Grenadine	 Juice of a Lemon		 Egg White	 Powdered Sugar
+ Dubonnet	 Dry Vermouth		 Swedish Punch
+ Bourbon whiskey	 Fresh lemon juice
+ Gin	 Whole Egg		 White creme de cacao	 Lillet Rouge
+ Bourbon whiskey	 Gingerbread liqueur		 Powdered Sugar	 Root Beer
+ Fresh basil leaves	 Vodka		 cherry-flavored brandy	 Angostura Bitters
+ Vodka	 Cranberry Juice		 Green Chartreuse	 Fresh Lime Juice	 Passion Fruit Juice, basil leaf
+ Absinthe Substitute	 Water		 Orange juice	 Lime wedge
+ Vodka	 Lychee liqueur		 Old Mr. Boston Anisette 	 Orange Bitters
+ Mr. Boston Vodka	 Dry Vermouth		 Fresh orange juice	 Pineapple Juice	 Canned pitted lychee nut stuffed with a small pineapple leaf
+ Black cherry-flavored vodka	 White creme de cacao
+ Vodka	 Blanco tequila		 Chile Syrup	 Grated bittersweet chocolate
+ Calvados	 Sweet Vermouth		 Gin	 Light Rum	 Simple Syrup, 1/2 oz
+ Vodka	 Lillet Blanc		 Dry Vermouth	 Brandy
+ Light Rum	 Dubonnet		 Ramazzotti Amaro	 Orange Bitters
+ Juice of a Lemon	 Powdered Sugar		 Lemon Juice
+ Citrus-flavored vodka	 Limoncello		 Egg White	 Grenadine
+red wine	ginger ale		 Manzanilla sherry	 Fresh lemon juice	 Orange twist
+ Juice of a Lemon	 Powdered Sugar		lemon	whole cloves
+ Whole Egg	 Juice of a Lemon		 Gin	 Whole Egg
+ Juice of a Lime	 Grenadine		 Powdered Sugar	 Gin
+Cucumber slices, chopped	 Fresh lemon juice		 Egg Yolk	 Gin
+ Cherry Vodka	 Orange Juice		 Simple Syrup	 Acai berry flavored vodka	 Sparkling wine, raspberry and cucumber
+ Rock and Rye	 Vodka		 Triple Sec
+ Rock and Rye	 White Port Wine		 Lime Juice	 Bitter lemon soda
+ Vodka	 Raspberry-flavored liqueur		 Dry Vermouth
+ Juice of a Lime	 Powdered Sugar		 Grand Marnier	 Chilled Champagne
+ Lemon wedge, superfine sugar	 lemon-flavored vodka		 Carbonated Water	 Gin	 Grenadine
+ Bourbon	 Triple Sec		 Fresh lemon juice	 Simple Syrup
+ Blended whiskey	 Egg White		 Orange Juice	 Lemon Juice
+ Juice of a Lemon	 Egg White		 Lemon Juice	 Powdered Sugar
+ Sloe gin	 Sweet Vermouth		 Powdered Sugar	 Gin	 Triple Sec
+ Green Chartreuse	 Sweet Vermouth		 Dry Vermouth	 Bitters
+ Sake	 Gin		 Gin		 Sake
+ Lemon wedge, superfine sugar	 Citrus-flavored vodka
+ Bitters	 Powdered Sugar		 Crema di limoncello	 Triple Sec
+ Aquavit	 Old Tom gin		 Rye Whiskey
+ Benedictine	 Whole Egg		 Demerara Syrup	 Orange Bitters	 Celery stick
+ Whole Egg	 Powdered Sugar
+ Vodka	 Creme de banana		 Blended whiskey	 Light Cream (if desired)
+ Gin	 Orange Juice		 Fresh orange juice	 Pineapple Juice	 Lime wheel, maraschino cherry
+ Blended whiskey	 Milk		 Juice of a Lime	 Maraschino
+ Gin	 Sweet Vermouth		 Powdered Sugar
+ Powdered Sugar	 Water		 Egg White
+ Vodka	 White creme de cacao		 Blended whiskey
+lump of sugar	boiling water		 Fresh lemon juice	 Grenadine
+ Powdered Sugar	 Blended whiskey		 blended whiskey	lemon peel
+ Cucumber slices	 Vodka
+ Apricot-Flavored Brandy	 White creme de menthe		 Sake	 Fresh Lime Juice	 Cucumber
+ Light Rum	 Fresh Lime Juice		 Triple Sec
+ Dry Vermouth	 Gin		 Simple Syrup
+ Juice of a Lime	 Dubonnet		 Apricot-Flavored Brandy	 Apple Brandy
+ Vodka	 Light Rum		 Brandy	 Maraschino
+ Orange Juice	 cherry-flavored brandy		 Triple Sec	 each Cranberry Juice, orange juice, pineapple juice, lemon juice	 Orange wheel, maraschino cherry
+ Light Rum	 Orange Juice		 Gin	 Dubonnet
+ Powdered Sugar	 Juice of a Lemon		 Mandarine Napoleon Liqueur
+ Dry Vermouth	 Brandy		 Egg White	 Brandy
+ Vodka	 Melon liqueur		 Bitters	 Sugar Syrup
+ Gin	 Sweet Vermouth		 Creme de banana	 Coconut-flavored rum
+ Lime wedge, pink sanding sugar	 each Citrus-flavored vodka and orange-flavored vodka		 Grenadine	 Orange Juice
+ Hot Shot Tropical Fruit Liqueur	 Hot Apple Cider		 Creme de Cassis	 Apricot nectar	 Chilled Champagne,  Orange half-wheel, lime wheel
+ Canadian whisky	 Dubonnet
+ Vodka	 Kummel		 Triple Sec
+ Lime wedge, superfine sugar	 Citrus-flavored vodka		 Juice of a Lime
+ Tequila	 Tonic		 Orange juice	 Grapefruit Juice	 Lime wheel
+ Blended whiskey	 Anis
+ Orange-flavored vodka	 Campari
+ Powdered Sugar	 Egg Yolk		 Grapefruit Juice	 Pomegranate molasses	 Apple schnapps, grapefruit twist
+ Vodka	 Jamaica Rum		 Brandy	 Cayenne Pepper
+ Tequila	 Grenadine		 Fresh Lime Juice	 Simple Syrup
+ Vodka	 Orange juice		 Lemon Juice	 Egg White
+ Tequila	 Juice of a Lemon		 Galliano	 Whole Egg
+ Blended whiskey	 Triple Sec		 Grenadine	 Egg White
+ Light Rum	 Ginger beer		 Anis	 Dubonnet
+ Gin	 Light Rum
+ Light Rum	 Lime Liqueur		 Vodka	 Hot Shot Tropical Fruit Liqueur	 each Cranberry Juice and orange juice
+ Vodka	 Angostura Bitters		 Triple Sec	 Lime Juice
+ Sloe gin	 Egg White		 Ginger ale
+ Juice of a Lemon	 Powdered Sugar		 Lemon Juice	 Raspberry Juice
+ Vodka	 Gin		 Whole Egg	 Sweet Vermouth
+ Vodka	 Fresh orange juice		 Light Rum	 Tequila
+ Lime Vodka	 Lemon-lime soda		 Galliano
+ Brandy	 Port
+ Vodka	 Triple Sec		 Apricot-Flavored Brandy	 Powdered Sugar
+ Pisco	 Punt e Mes		 Green Chartreuse
+ Gin	 Orange Flavored Gin		 Benedictine	 Aromatic bitters
+ Grape Juice	 Swedish Punch		 Sweet Vermouth	 Lemon Juice
+ Powdered Sugar	 Juice of a Lemon		 Gin
+ Vodka	 Soda water		 Egg White	 Gin
+ Light Rum	 White creme de cacao		 Orange juice
+ Dry Vermouth	 Sweet Vermouth		 Creme de banana	 Vanilla Ice Cream	 Banana
+ Tequila	 Hot Shot Tropical Fruit Liqueur		 Gin
+ Lemon wedges	 Superfine sugar		 Lemon or Lime Juice
+Whole Egg	 Powdered Sugar		 Citrus-flavored vodka
+ Vodka	 Raspberry-flavored liqueur		 Brandy
+ Scotch	 Vermouth		 Fresh lemon juice
+ Vodka	 Fresh grapefruit juice		 Lemon Juice	 Orange Bitters
+ 100-proof Vodka	 Rock and Rye		 Fresh Lime Juice	 Simple Syrup
+ Vodka	 Amaretto		 Lemon Juice
+ Gin	 Anisette
+ Lime Vodka	 Lemon-lime soda		 Anis
+ Powdered Sugar	 Egg White				 Powdered Sugar
+ Vodka	 Amaretto		 Juice of a Lemon	 Gin
+ Vodka	 Grape Juice		 Heavy cream
+ Brandy	 Grapefruit Juice		 Egg White	 Lemon Juice
+ Yellow Chartreuse	 Apricot-Flavored Brandy		 Lemon Juice	 Honey
+ Amaretto	 Sweet Vermouth
+ Orange Juice	 Lemon Juice		 Light Rum
+ Vodka	 Peach schnapps		 Sugar	 Port
+ Juice of a Lemon	 Powdered Sugar		 White rum	 Triple Sec	 Lime soda, orange wheel, maraschino cherry
+ Blended whiskey	 Brandy		 Gin	 Egg Yolk
+ Wine (Port, Cream Sherry, Claret, Burgundy, or Madeira)	 Dried Orange Peel		 Juice of a Lemon	 Raspberry Syrup	 Egg White
+ Vodka	 Peach schnapps		 Cinnamon sticks
+ Peach slice, skinned	 Vodka		 Grenadine
+ Vodka	 Gin		 Fresh lemon juice	 Peach bitters	 Peach slice
+ Brandy	 Jamaica Rum		 Blanco tequila
+ Whole Egg	 Powdered Sugar		 Triple Sec	 Pineapple Juice	 Lemon twist, maraschino cherry
+ Vodka	 Creme de noyaux		 Red wine
+ Brandy	 Light Rum		 Fresh lemon juice	 Pineapple Juice	 Lemon wheel, pineapple chunk
+ Applejack	 Lime Juice		 Lemon Juice	 Egg Yolk
+ Vodka	 Sambuca		 Sugar	 Egg White
+ Egg White	 Gin		 Black licorice stick
+ Vodka	 Black raspberry liqueur		 Grenadine
+ Splash triple sec	 Orange-flavored vodka		 Pineapple Juice
+ Apricot-Flavored Brandy	 Dry Vermouth		 Lillet Blanc
+ Vodka	 Blue curacao		 Lemon Juice	 Gin
+ Egg White	 Grenadine		 Simple Syrup	 Fresh lemon juice
+ Triple Sec	 Orange Juice		 Apricot-Flavored Brandy	 Gin
+ Vodka	 Smoky Scotch, such as Laphroaig		 Lemon Juice	 Maraschino	 Chilled Champagne
+ Dubonnet 	ginger ale		 Pastis
+ Juice of Orange	 Juice of a Lemon		carbonated water
+ Dubonnet	 Gin		 cherry-flavored brandy	 Dubonnet
+ Gin	 Lemon Juice		 Orange Bitters (if desired)
+ Vodka	 Fresh orange juice		 Maraschino	 Egg White
+ Gin	 Dry Vermouth		 Pineapple Juice	 Grenadine
+ Lemon Juice	 Port
+ Juice of a Lemon	 Powdered Sugar		 Dry Vermouth
+ Cucumber slices	Fresh mint leaves		 Whole Egg	 Scotch
+ Citrus-flavored vodka	 Melon liqueur		 Simple Syrup	 Vodka	 Fresh mint sprig
+ Vodka	 Fresh Lime Juice		 Triple Sec	 Simple Syrup	 Lime soda, pineapple wedge, maraschino cherry or lime wheel
+ Brandy	 Triple Sec		 Triple Sec	 Cranberry Juice
+ Gin	 Triple Sec		 Anisette
+ Juice of a Lemon	 Powdered Sugar		 Anis	 Powdered Sugar
+ Citrus-flavored vodka	 Fresh Lime Juice		 Blended whiskey	 Port
+ Egg White	 Lemon Juice		 Lemonade	 Cranberry Juice
+ Bison grass vodka (Zubrowka)	 Benedictine		 Maraschino	 Gin
+ Juice of a Lemon	 Juice of a Lime		 Campari	 Fresh grapefruit juice	 Grapefruit twist
+ Gin	 Curacao		 Powdered Sugar	 Egg White	 Light cream, 1/2 oz
+ Gold rum	 151-Proof Rum		 Dubonnet
+ Sloe gin	 Brandy		 Light Rum	 each Fresh Lime Juice, lemon juice, pineapple juie, and passion fruit syrup	 Tiki (such as Bittermen's 'Elemakule) or Angostura bitters (optional) Garnish: Fresh mint sprig
+ Light Rum	 Triple Sec		 Egg White	 Juice of a Lemon
+ Kummel	 Gin		 Fresh lemon juice
+ Egg Yolk	 Powdered Sugar		 Apricot-Flavored Brandy	 Lemon Juice
+ Light Rum	 151-Proof Rum		 Anis	 Triple Sec	 Light Rum
+ Egg White	 Blended whiskey		 each Vodka, tequila blanco, triple sec	 Amaretto	 Orange wheel, maraschino cherry
+ Medium Eggs	 Sugar		 Port	 Juice of a Lemon
+ Whole Egg	 Powdered Sugar		 Whole milk	 Heavy Cream, Whipped	 Powdered Nutmeg
+ Light Rum	 Fresh lemon juice		 Juice of a Lemon	 Brandy
+ Light Rum	 Triple Sec		 Simple Syrup	 Grenadine
+ Whole Egg	 Maraschino		 Gin	 Anisette
+ Peach-flavored brandy	 Lime Vodka		 Triple Sec
+ Maraschino	 Dubonnet		 Pineapple Juice
+ Ripe pear	 Dark rum		 Gin
+ Grenadine	 Sweet Vermouth		 Benedictine	 Angostura Bitters
+ Lime Vodka	 Coffee-flavored brandy		 Blended whiskey
+ Light Rum	 Maple Syrup		 Cream sherry
+ Gin	 Dubonnet		 Fresh lemon juice
+ Peeled and chopped fresh ginger	 Fresh Lime Juice
+ Brandy, preferably Spanish	 Cherry liqueur		 each Simple Syrup, light rum, dark rum	 Mango juice	 Mango slice
+ Light Rum	 Juice of a Lemon		 White or dark creme de cacao	 Egg White
+ Cachaca	 Sweet Vermouth		 Powdered Sugar	 Egg White
+ Gin	 White creme de menthe		 Cynar	 Angostura Bitters
+ Light Rum	 Pineapple Juice		 Forbidden Fruit
+ Creme de Cassis	 Dry Vermouth		 Fresh grapefruit juice	 Grenadine
+ Gin	 Forbidden Fruit
+ Strega	 White creme de cacao		 Orange Juice	 Lemon Juice
+ Vodka	 Creme de Cacao		 Light cream
+ Gin	 Triple Sec		 Light cream
+ Light Rum	 Coffee-flavored brandy		 Anis
+ Juice of a Lemon	 Powdered Sugar		 half-and-half	 151-Proof Rum
+ Fresh cherry tomatoes	 Dark rum		 Blended whiskey	 Egg White
+ Juice of a Lemon	 Powdered Sugar		 Fresh Lime Juice	 Simple Syrup
+ Juice of a Lemon	 Swedish Punch		 Egg White	 Grenadine
+ Juice of a Lemon	 Brandy		 Gin
+ Light Rum	 Apple Brandy		 Triple Sec	 Light Rum
+ Apple Brandy	 Dubonnet		 Brandy	 Anisette
+ Light Rum	 Fresh lemon juice
+ Applejack	 Scotch		 Fresh Lime Juice	 Pineapple Juice	 Lemon wheel
+ White creme de cacao	 Vodka		 Gin
+ Light Rum	 Fresh Lime Juice		 Galliano		 Whipped cream and 3/4 oz
+ Anisette	 Brandy		 Ginger ale
+ Gin	 Egg White		 Egg White
+ Light Rum	 Dubonnet		 Orange Bitters	 Grenadine
+ Dark rum	 Fresh Lime Juice		 Bitters
+ Juice of Orange	 Gin		 Maple Syrup	 Brandy
+ Orange Juice	 Chilled Champagne
+ Light Rum	 Sweet Sherry
+ Dark rum	 Pineapple Juice		 Juice of a Lime
+ Juice of Orange	 Egg White		 Ginger beer
+ Gin	 Sweet Vermouth		 Dry Vermouth	 Gin
+thin Peeled fresh ginger	 Demerara Syrup		 Dry Vermouth	 Orange
+ Apple Brandy	 Brandy		 Fresh apple cider	 Light Rum	 Green apple slice, lime wedge
+ Dry Sherry	 Light Rum		 Fresh lemon juice	 Grenadine
+ 17-year-old J. Wray and Nephew Ltd. Rum	 Coffee-flavored liqueur		 Sweet Vermouth
+ Brandy	 White creme de cacao		 Egg White
+ Light Rum	 Triple Sec		 Benedictine
+ Light Rum	 Apricot-Flavored Brandy
+ Gin	 Apricot-Flavored Brandy		 Triple Sec	 Lime Juice
+ Applejack	 Light Rum		 Anisette	 Lemon Juice
+ Light Rum	 Dry Vermouth		 Lime
+Applejack	 Grenadine		 Triple Sec	 Fresh Lime Juice
+Whole Egg	 Powdered Sugar		 Orange Juice		 Whole Egg
+ Light Rum	 Brandy		 Brandy	 Light Cream (if desired)
+ Light Rum	 Fresh Lime Juice		 Grenadine	 Triple Sec
+ Gin	 Dry Vermouth		 Grenadine
+ Aged rhum agricole	 Dry Sherry
+ Light Rum	 Fresh Lime Juice		 Aperol	 Angostura Bitters
+ Chilled Stout	 Chilled Champagne		 Simple Syrup	 Grenadine
+ Dark rum	 Butterscotch schnapps
+ Applejack	 Triple Sec		 Sweet Vermouth	 Angostura Bitters
+ Egg White	 Juice of a Lemon		 Lemon Juice
+ Dubonnet	 Dry Vermouth		 Powdered Sugar	 Apple Brandy
+ Apple Brandy	 Triple Sec
+ Light Rum	 Creole Shrubb (rum-based orange liqueur)		 Dubonnet
+ Light or dark rum	 Water		 Ruby port	 Fresh Lime Juice
+ Brandy	 Apple Brandy		 Simple Syrup		 Brandy
+ Dry Vermouth	 Gin		 Triple Sec	 Fresh lemon juice	 Dry Vermouth
+ Light or dark rum	 Fresh Lime Juice		 Kummel
+ Applejack	 Grapefruit Juice		 Simple Syrup	 Angostura Bitters
+ Apricot-Flavored Brandy	 Triple Sec
+ Light Rum	 Fresh lemon juice		 Lemon Juice
+ Light Rum	 Lime Juice		 Simple Syrup
+ Anis	 Sugar		 Triple Sec	 Sugar
+ Applejack	 Brandy
+ Light Rum	 Orange juice		 Triple Sec
+ Light Rum	 Fresh Lime Juice
+ Old Mr. Boston Creme de Menthe (White)	 Desmond & Duff Scotch Whisky		 Soda water
+ Light Rum	 Pineapple Juice
+ Light Rum	 151-Proof Rum		 Grenadine
+ Light Rum	 Dry Vermouth		 Simple Syrup	 Angostura Bitters
+ Light or dark rum	 Ginger ale or soda water		 Lemon twist
+ Light Rum	 Fresh lemon or lime juice		 Lemon twist
+ Light Rum	 Fresh lemon juice		 Simple Syrup
+ Armagnac	 Grand Marnier		 Simple Syrup	 Grenadine
+ Light Rum	 Simple Syrup		 Simple Syrup	 Orange juice	 orange zest
+ Light Rum	 Fresh Lime Juice		 Soda water
+ Old Mr. Boston Blended Whiskey	 Old Mr. Boston Dry Gin		 Simple Syrup
+ Light Rum	 Simple Syrup		 Lemon Juice	 Powdered Sugar
+ Jamaica Rum	 Fresh lemon juice		 Soda water
+ Absinthe or pastis	 Cachaca		 Fresh orange juice	 Grenadine
+ Red grapes	 Lemon		 Maraschino liqueur	 Fresh Lime Juice
+ Coconut rum	 White creme de cacao		Fresh mint leaves	 Sugar cube
+ Light Rum	 Cream sherry		 Fresh Lime Juice		 Light Rum
+ Light Rum	 Brandy		 Fresh Lime Juice
+ Dark rum	 Orange curacao		 Fresh lemon juice	 Raspberry Syrup
+ Brandy	 Light Rum		 Fresh lemon juice	 each Orange juice and simple syrup	 Freshly grated nutmeg, orange wheel
+ Dark rum	 Grand Marnier		 Apricot-Flavored Brandy	 Fresh Lime Juice
+ Old Mr. Boston Five Star Brandy	 Worcestershire Sauce		 Passion Fruit Juice	 Cranberry Juice	 Champagne
+ Light Rum	 Sweet Vermouth		 Tomato Catsup	 Vinegar	 Egg Yolk, 1 oz
+ Light Rum	 Orange juice
+ Light Rum	 Fresh Lime Juice		 each Fresh Lime Juice, jamaica rum, grenadine	 Pineapple Juice	 Lemon, orange, and pineapple slices; maraschino cherry; fresh mint sprig dipped in sugar
+ Jamaica Rum	 Fresh lemon juice		 Simple Syrup	 Soda water	 Lemon, orange, and pineapple slices; maraschino cherry
+ Coconut-flavored rum	 Amaretto		 Simple Syrup
+ Light Rum	 Fresh Lime Juice		 Cranberry Juice	 Pineapple Juice
+ Light Rum	 Pineapple Juice		 Grenadine	 half-and-half
+ Light Rum	 Pineapple Juice		 Simple Syrup
+ Cachaca (Brazilian rum)	 Lillet Blanc		 Fresh lemon juice
+ Dubonnet	 Triple Sec		 Fresh Lime Juice
+ Elderflower liqueur	 Dark rum		 Brandy	 Fresh lemon juice
+ Light Rum	 Dry Vermouth		 Fresh Lime Juice	 Angostura Bitters
+ Absinthe	 Light Rum		 Angostura Bitters
+ mint leaves	 Simple Syrup		 Lillet Blanc	 Fresh grapefruit juice	 Orange marmalade, grapefruit twist
+ Light Rum	 Triple Sec		 Fresh Lime Juice	 Dark rum	 Champagne, chopped fresh mint
+ Light Rum	 Simple Syrup		 Fresh Lime Juice
+ Light Rum	 Fresh orange juice		 Warm milk
+ Light Rum	 Grapefruit Juice		 Fresh lemon juice
+ Dark rum	 Coffee-flavored brandy		 Fresh Lime Juice	 Simple Syrup
+ Light Rum	 Grapefruit Juice		 Fresh lemon juice
+ Coffee-flavored brandy	 Light Rum
+ Blanco tequila	 Cointreau or triple sec		 Anisette	 half-and-half
+ Lime wedges	 Fresh mint leaves		 Fresh Lime Juice
+ Vodka	 Campari		 Simple Syrup	 Light Rum	 Fresh mint sprig
+ Egg Yolk	 Powdered Sugar		 Chilled Champagne
+ Citrus-flavored vodka	 Simple Syrup		 Old Mr. Boston Five Star Brandy
+ Vodka	 Light Rum		 Fresh lemon juice	 Cranberry Juice	 Lemon wheel
+ Vodka	 Coffee-flavored brandy		 Coconut-flavored rum	 Grenadine	 Pineapple wedge, maraschino cherry
+ Vodka	 Cranberry Juice		 half-and-half	 Vodka	 Lime wedge
+ Old Mr. Boston Anisette 	 Old Mr. Boston Five Star Brandy		 Lime wedge	 Old Mr. Boston Anisette 	 Egg White
+ Lemon wedge, celery salt	 Vodka		 Egg White
+ Vodka	 Cold beef bouillon		 Tomato-clam juice	 Prepared horseradish	 Celery stalk, lemon wedge
+ Vodka	 Lemonade		 Worcestershire Sauce	 Salt
+ Vodka	 Creme de banana		 Lime wheel
+ Cognac	 Calvados, apple brandy, or applejack		 Fresh orange juice
+ Old Mr. Boston Apricot Flavored Brandy	 Old Mr. Boston Dry Gin		 Sweet Vermouth
+ Old Mr. Boston Tequila	 Dry Vermouth		 Dry Vermouth	 Lemon Juice
+ Citrus-flavored vodka	 Lillet Blanc		 Bitters
+ Vodka	 Fresh lemon juice		 Lemon twist
+ Vodka	 Blue curacao		 Simple Syrup	 Light Rum
+ Old Mr. Boston White Creme de Menthe	 Old Mr. Boston Five Star Brandy		 Fresh lemon juice	 Simple Syrup
+ Vodka	 Tomato Juice
+ chilled Rhine wine or Sauterne	carbonated water		 Fresh Lime Juice	 Worcestershire Sauce	 Freshly ground black pepper to taste, lime wedge, celery stalk
+ Vodka	 Tomato Juice
+ Orange-flavored vodka	 Campari		 Cold beef bouillon
+ Vodka	 Coffee liqueur		 Blood or navel orange half-wheel
+ Vodka	 Coffee liqueur
+ Black cherry-flavored vodka	 White chocolate liqueur		 Fresh lemon juice
+ Old Mr. Boston Vodka	 Unsweetened Grape Juice		 Black cherry juice
+ Old Mr. Boston Dry Gin	 Old Mr. Boston Anisette 		 Lemon Juice	 Powdered Sugar
+ Juice of a Lemon	 Powdered Sugar		 Sweet Cream
+ Vodka	 Light Rum		 Old Mr. Boston Dry Gin	 Creme Yvette
+ Brandy	 Sweet Vermouth		 Fresh lemon juice	 Milk	 Lemon twist
+ Raspberry-flavored vodka	 Triple Sec		 White creme de menthe
+ Lime wedge, superfine sugar	 Citrus-flavored vodka		 Raspberry-flavored liqueur	 Fresh Lime Juice	 Fresh blackberries and raspberries
+ Strawberry, chopped	 Fresh basil leaves		 Pomegranate juice	 Fresh Lime Juice	 Fresh lemon juice, lemon twiste, fresh pomegranate seeds
+ Vodka	 Chilled beer or ale		 Vodka	 Fresh lemon juice	 Soda water, strawberry slide, fresh basil leaf
+ Fresh basil leaves	 White grapes		 Hot red pepper sauce
+ Irish Whiskey	 Dry Vermouth		 Vodka	 Fresh Lime Juice	 Ginger ale
+ Vodka	 Fresh Lime Juice		 Old Mr. Boston Green Creme de Menthe
+ Desmond & Duff Scotch Whisky	ginger ale		 White curacao or triple sec	 Apricot-Flavored Brandy
+ lemon-flavored vodka	 Pineapple Juice		lemon twist
+ Pear-flavored vodka	 Cinnamon schnapps		 Triple Sec
+ Blanco tequila	 Fresh lemon juice		 Dry Vermouth	 White creme de cacao
+ Old Mr. Boston Green Creme de Menthe	 Green Chartreuse		 Simple Syrup	 Yellow Chartreuse
+ Old Mr. Boston Grape Vodka	cola		 Irish Whiskey	 Bitters
+ Cucumber	 Fresh sage leaves		lemon slice
+ Cognac	 Ginger ale or soda water		 Fresh Lime Juice	 Blanco tequila	 Ginger ale, strawberry slice
+ Old Mr. Boston Apricot Flavored Brandy	 Apple Brandy		 Lemon twist (optional)
+ Lime wedge, coarse salt	 Blanco tequila		 Old Mr. Boston Dry Gin	 Lemon Juice
+ Old Mr. Boston Five Star Brandy	 Worcestershire Sauce		 Fresh Lime Juice	 Simple Syrup
+ Old Mr. Boston Dry Gin	 Whole Egg		 Tomato Catsup	 Vinegar
+ Blanco tequila	 Mezcal		 Pepper and Salt
+ Reposado blanco tequila	 Pineapple Juice		 Yellow Chartreuse	 Elderflower liqueur
+Absinthe	 Absinthe		 Fresh celery juice	 Fresh Lime Juice
+orange peel	pineapple		 Blanco tequila	 Fresh Lime Juice
+ Blanco tequila	 Dark creme de cacao		 Old Mr. Boston Dry Gin	 sweet vermouth
+ Mr. Boston Creme de Noyaux 	 Old Mr. Boston White Creme de Cacao		 half-and-half
+ Egg White	 Grenadine		 Light Sweet Cream
+ Gold tequila	 Blue curacao		 Sweet Cream	 Old Mr. Boston Dry Gin
+ Blanco tequila	 Fresh Lime Juice		 Tropical fruit schnapps
+ Dubonnet	 Old Mr. Boston Five Star Brandy		 Aperol	 Yellow Chartreuse	 Orange half-wheel
+ Blanco tequila	 Fresh lemon or lime juice		 Absinthe Substitute
+ Blanco tequila	 Dry Vermouth		 Tonic water
+ Old Mr. Boston Rum	 Juice of a Lime		 Angostura bitters
+ Sweet Cream	 Old Mr. Boston Triple Sec		 Powdered Sugar	 Passion Fruit Juice
+ Blanco tequila	 Orange juice		 Jamaica Rum
+ Coffee-flavored brandy	 White creme de menthe		 Grenadine
+ Coarse salt	 Blanco tequila		 half-and-half
+ Blanco tequila	 Fresh lemon juice		 Lime wedge
+ Blueberries	 Bing cherries		 Simple Syrup
+ Blanco tequila	 Dry Vermouth		 Blanco tequila	 Maraschino liqueur	 Lime wheel skewered with blueberry and Bing cherry
+ Blanco tequila	 Simple Syrup		 Grenadine
+ Sweet Vermouth	 Desmond & Duff Scotch Whisky		 Angostura Bitters	 Soda water
+ Lime wedge, coarse salt	 Minced ginger
+ Blanco tequila	 Pineapple Juice		 Blanco tequila	 Agave nectar	 Lime wheel
+ Blanco tequila	 Sweet Vermouth		 Fresh Lime Juice
+ Old Thompson Blended Whiskey	 Absinthe Substitute		 Angostura Bitters
+ Old Mr. Boston Dry Gin	 Old Thompson Blended Whiskey
+ Powdered Sugar	 Egg Yolk		 Old Mr. Boston Five Star Brandy
+ Blanco tequila	 Fresh lemon juice		 Old Mr. Boston Five Star Brandy	 Cayenne Pepper
+ Egg White	 Powdered Sugar		 Simple Syrup
+ Blanco tequila	 Triple Sec		 Sweet Cream	 Old Mr. Boston Dry Gin
+ Lemon wedge, superfine sugar	 Brandy		 Cranberry Juice	 Pineapple Juice	 Lime wheel
+ Blanco tequila	 Limoncello		 Fresh lemon juice	 Orange curacao
+ Lime wedge, superfine sugar or coarse salt (optional)	 Fresh strawberries, cut in half		 Fresh lemon juice
+ Old Mr. Boston Apricot Flavored Brandy	 Old Mr. Boston Dry Gin		 Strawberry schnapps	 Blanco tequila	 Fresh Lime Juice, whole strawberry
+ Old Mr. Boston Five Star Brandy	 Yellow Chartreuse		 Dry Vermouth	 Lemon Juice
+ Cucumber	Fresh mint leaves		 Benedictine	 Peychaud Bitters
+ Benedictine	 Whole Egg		 Simple Syrup	 Jalapeno-Infused Tequila	 Cucumber slice, fresh mint sprig
+ Old Mr. Boston Vodka	 Benedictine
+ Blanco tequila	 Coffee-flavored brandy		 Angostura Bitters
+ Old Mr. Boston Vodka	 Old Mr. Boston Green Creme de Menthe		 Fresh Lime Juice
+ Juice of a Lemon	 Powdered Sugar		 Old Mr. Boston White Creme de Cacao
+ Smoky Scotch whisky, such as Islay or Skye	 Reposado tequila		 Old Mr. Boston Dry Gin	 Creme Yvette
+ Blanco tequila	 Sloe gin		 Triple Sec	 Fresh lemon juice	 Lime wedge
+ Old Mr. Boston Dry Gin	 Dry Vermouth		 Fresh Lime Juice
+ Blanco tequila	 White creme de cacao		 Benedictine
+ Old Mr. Boston Dry Gin	 Egg White		 Heavy cream	 Grenadine
+ Juice of a Lemon	 Powdered Sugar		 Creme Yvette
+ Juice of a Lime	 Old Mr. Boston Orange Flavored Gin 		 Old Mr. Boston Orange Flavored Gin 	 Milk
+ Old Mr. Boston Orange Flavored Gin 	ginger ale
+ Juice of a Lemon	 Powdered Sugar		lemon twist
+ Juice of a Lemon	 Old Mr. Boston Orange Flavored Gin 		 Old Mr. Boston Orange Flavored Gin
+ Reposado tequila	 Campari
+ Old Mr. Boston Dry Gin	 Orange Juice		 Vanilla syrup, preferably B.A. Reynold's	 Fresh Lime Juice	 Ginger beer, 1 oz
+ Blanco tequila	 Melon liqueur		 Powdered Sugar
+ Cherry-flavored brandy, superfine sugar	 Brandy		 Fresh grapefruit juice	 Fresh grapefruit juice
+ Mezcal	 Rye Whiskey		 cherry-flavored brandy	 Fresh lemon juice	 Grenadine, maraschino cherry
+ Old Mr. Boston Dry Gin	 Curacao		 Dry Vermouth	 Benedictine	 Orange twist
+ Old Mr. Boston Sloe Gin	 Sweet Vermouth		 Dubonnet
+ Blanco tequila	 Fresh Lime Juice		 Bitters
+ Blanco tequila	 Falernum		 Creme de Cassis	 Orange curacao
+ Reposado tequila	 Cherry Heering		 Simple Syrup	 Fresh Lime Juice
+ Blanco tequila	 Sweet Vermouth		 Batavia arrack or light rum	 Fresh Lime Juice
+ Old Mr. Boston Rum	 Old Mr. Boston Five Star Brandy		 Dry Vermouth	 Campari	 Lemon twist
+ Old Mr. Boston Tequila	 Old Mr. Boston Triple Sec		 Lemon Juice	 Orange Juice
+ Blanco tequila	 Aperol		 Lemon or Lime Juice
+ Dry Vermouth	 Old Thompson Blended Whiskey		 Fresh Lime Juice	 Grapefruit Juice
+ Juice of a Lime	 Desmond & Duff Scotch Whisky
+ Blanco tequila	 Mezcal
+ Mr. Boston Creme de menthe	water		 Creme de peche	 Guava puree	 Grapefruit twist
+ Lime wedge, superfine sugar	 Blanco tequila
+ Dark rum	 Triple Sec		 Blue curacao	 Sloe gin	 each Fresh lemon juice, simple syrup, 1 lime wheel
+orange peel	lump sugar		 Fresh Lime Juice	 Fresh lemon juice
+ Light Rum	 Pineapple Juice		bitters
+ Brandy	 Sweet Vermouth		 Maraschino liqueur	 Grenadine
+ Aged rhum agricole	 Amaretto		 Angostura Bitters
+ Light Rum	 Brandy		 Fresh Lime Juice	 Grapefruit Juice
+ Light Rum	 Dark rum		 Fresh lemon juice	 Orange juice
+ Old Mr. Boston Kummel	 Old Mr. Boston Dry Gin		 Fresh lemon juice	 Anisette
+ Anisette	 Light Rum		 Old Mr. Boston Apricot Flavored Brandy	 Lemon Juice
+ Dark rum, preferably Jamaican	 Orange curacao		 Cream sherry	 Fresh lemon juice
+ Apple Brandy	 Sweet Vermouth		 Fresh lime juice (reserve 1/2 lime shell for garnish)	 Orgeat Syrup	 Fresh mint sprig; pineapple wedge skewered with maraschino cherry
+ Fresh ginger	 Simple Syrup		 Juice of a Lime
+ Old Mr. Boston Dry Gin	 Claret		 Dark rum	 VS cognac	 Lemon twist
+ Dark rum	 Amaretto		 Orange Juice	 Jamaica Rum
+ Apple Brandy	 Pineapple Juice		 Cola
+ Old Mr. Boston Triple Sec	 Absinthe Substitute		 Bitters
+ 151-Proof Rum	 Fresh Lime Juice		 Maraschino	 Bitters
+ Light Rum	 Sweet Vermouth		 Grenadine
+ Light Rum	 Gin
+ Brandy	 Yellow Chartreuse		 Fresh lemon juice	 Triple Sec
+ Juice of a Lime	 Old Mr. Boston Apricot Flavored Brandy		 Fresh lemon juice	 Simple Syrup
+ Aged rhum agricole	 Cold brewed coffee		 Old Mr. Boston Rum
+ Spiced rum	 Mezcal		 Allspice liqueur (pimento dram)	 Simple Syrup
+ Desmond & Duff Scotch Whisky	 Dry Vermouth		 Fresh Lime Juice	 Simple Syrup
+ Dark rum	 Coconut rum		 Lemon Juice	 Orange Bitters
+ Light Rum	 Triple Sec		 Ginger liqueur	 Mango nectar	 Fresh Lime Juice, lime wheel
+ Old Mr. Boston 100 proof Vodka	 Old Mr. Boston Rock and Rye		 Fresh lemon juice	 Orange juice	 Small pineapple slice
+ Old Mr. Boston Dry Gin	 Old Mr. Boston Anisette 		 Lemon Juice
+ Light Rum	 Dark rum		 Absinthe Substitute
+ Juice of a Lemon	 Old Mr. Boston Kummel		 Falernum	 Fresh Lime Juice	 Ginger ale, lime wheel
+ Old Mr. Boston Green Creme de Menthe	 Old Mr. Boston White Creme de Cacao		 Old Mr. Boston Green Creme de Menthe	 Old Mr. Boston Dry Gin
+ Light Rum	 Melon liqueur		 Light Sweet Cream
+ Yellow Chartreuse	 Old Mr. Boston Apricot Flavored Brandy		 Pineapple Juice	 Grenadine
+ Light Rum	 Fresh Lime Juice
+ Dark rum	 Triple Sec		 Green creme de menthe	 Triple Sec	 Lime wheel
+ Dark rum	 Madeira		 Fresh Lime Juice	 Simple Syrup
+ Light Rum	 Sweet Vermouth		 Simple Syrup	 Egg	 Freshly grated nutmeg
+ Brandy	 Sweet Vermouth		 Benedictine	 Fresh lemon juice
+ Creme de violette	 Light Rum		 Maraschino cherry
+ each Light Rum, Gin, Vodka, Blanco tequila, Blue curacao	 cherry-flavored brandy		 Fresh Lime Juice	 Simple Syrup
+ Rose's Lime Juice	 Powdered Sugar		 Simple Syrup	 Fresh lemon juice	 Orange wheel
+ each Dark rum, light rum	 Passion Fruit Syrup		 Old Mr. Boston Dry Gin
+ Light Rum	 Apricot-Flavored Brandy		 Lime Juice	 Orange juice	 Orange half-wheel, maraschino cherry
+ Cachaca	 Fresh Lime Juice		 Fresh Lime Juice
+ Dark rum	 Vanilla liqueur		 Honey Syrup		 Champagne or sparkling wine, mint sprig
+ Sweet Vermouth	 Desmond & Duff Scotch Whisky		 Simple Syrup	 Creme fraiche	 Freshly grated nutmeg
+ Old Mr. Boston Green Creme de Menthe	 Old Mr. Boston White Creme de Cacao		 Bitters	 Sugar Syrup
+ Light Rum	 Pineapple Juice		 Old Mr. Boston Vodka
+ Light Rum	 Pineapple Juice		 Fresh lemon juice
+ Old Mr. Boston Five Star Brandy	 Bitters		 Cranberry Juice	 Orange juice
+ Juice of a Lime	 Old Mr. Boston Dry Gin		 Old Mr. Boston Triple Sec	 Powdered Sugar
+ Reposado tequila	 Dry Vermouth		 Bitters	 Old Mr. Boston White Creme de Menthe
+ Dark rum	 Fresh Lime Juice		 Maraschino liqueur	 Peychaud's Bitters
+ Coffee-flavored brandy	 Triple Sec		 Pineapple Juice	 Orange juice	 Angostura Bitters
+ Gin	 Dry Vermouth		 half-and-half
+ Cucumber	 Blanco tequila		 Orange Bitters
+ Dark rum	 Yellow Chartreuse		 Pineapple Juice	 Fresh lemon juice	 Lemon-lime soda, cucumber slice
+ Anejo tequila	 Aperol		 Cherry Heering	 Fresh Lime Juice
+ Blanco tequila	 Fresh white or ruby red grapefruit juice		 Sweet Vermouth	 Peach bitters
+ Light Rum	 Sweet Vermouth		 Soda water
+ Blanco tequila	 Grapefruit-flavored soda		 Amaretto
+ Lemon wheel, coarse salt	 Blanco tequila		 Lime wedge
+ Dark rum	 Amaro		 Blue curacao	 Simple Syrup	 Angostura Bitters
+ Dry Vermouth	 Sweet Vermouth		 Fresh lemon juice	 Orange Bitters	 Golden Delicious apple wedge
+ Anejo tequila	 Apple juice		 Bitters	 Maraschino
+ Light Rum	 Fresh grapefruit juice		 Fresh lemon juice	 Triple Sec	 Angostura Bitters, flamed lemon twist
+ Calvados	 Orange juice		 Ginger liqueur	 Fresh Lime Juice
+ Juice of a Lime	 Powdered Sugar		 Triple Sec	 Orange Bitters
+ Reposado tequila	 Mezcal		 Old Mr. Boston Rum
+ Pineapple Juice	 Juice of a Lime		 Agave nectar	 Angostura Bitters
+ Light Rum	 Fresh lemon juice		 Old Mr. Boston Rum	 Old Mr. Boston Triple Sec
+ Blanco tequila	 Orange juice		 Fresh Lime Juice	 Passion Fruit Syrup
+ Old Kentucky Tavern Bourbon Whiskey	 Madeira		 Blood orange juice	 Agave nectar	 Whiskey barrel bitters
+ Reposado tequila	 Palo cortado or oloroso sherry		 Grenadine
+ Light Rum	 Brandy		 Honey liqueur	 Orange Bitters
+ Blanco tequila	 Fresh Lime Juice		 Gin	 Fresh lemon juice	 Almond or orgeat syrup
+ Light Rum	 Fresh Lime Juice
+ Reposado tequila	 Dry Sherry		 Grapefruit Juice	 Maraschino liqueur	 Lime wheel
+ Light Rum	 Fresh Lime Juice		 Coffee liqueur	 Benedictine
+ Blanco tequila	 Cranberry Juice		 Sweet Vermouth	 White creme de cacao	 Lime twist
+ Blackberry-flavored brandy	 Dry Sherry		 Orange juice	 Fresh Lime Juice
+ Juice of a Lime	 Dubonnet		 Triple Sec	 half-and-half
+ Light Rum	 Fresh Lime Juice		 Old Mr. Boston Dry Gin
+ Dark rum	 Dubonnet Rouge		 Simple Syrup	 Grenadine	 Lemon half-wheel, maraschino cherry
+ Old Mr. Boston Five Star Brandy	 Old Mr. Boston Wild Cherry Flavored Brandy		 Benedictine	 Triple Sec
+ Light Rum	 Sweet Vermouth		 Old Mr. Boston Triple Sec	 Grenadine
+ Juice of a Lemon	 Old Mr. Boston Triple Sec		 Triple Sec
+ Blanco tequila	 Simple Syrup		 Old Mr. Boston Dry Gin
+ Blanco tequila	 Fresh lemon juice		 Fresh Lime Juice	 pomegranate molasses (available at Middle Eastern grocers)	 Lime wheel
+ Light Rum	 Dry Vermouth		 Pineapple Juice	 Grenadine
+ Lime wedge, coarse salt	 Blanco tequila		 Angostura Bitters
+ Blanco tequila	 each Lillet Blanc and Lillet Rouge		 Cointreau triple sec	 Fresh Lime Juice
+ Lemon Juice	 Old Mr. Boston Triple Sec		 Apple juice	 Fresh Lime Juice	 Blood orange wheel
+ Blanco tequila	 Fresh grapefruit juice		 Old Mr. Boston Rum
+ Reposado tequila	 Manzanilla sherry		 Fresh Lime Juice	 Yellow Chartreuse	 Grapefruit twist
+ Brandy	 Light Rum		 Pear liqueur
+ Lime wedge, superfine sugar	 Gold tequila		 Simple Syrup	 Milk
+ Blanco tequila	 Blood orange liqueur		 Triple Sec	 Pineapple Juice	 Grenadine, lime wheel
+ Blanco tequila	 Aperol		 Becherovka (Czech digestif)	 Fresh grapefruit juice
+ Lime wedge, coarse salt	 Blanco tequila		 Dark creme de cacao	 Fresh lemon juice
+ Campari	 Blanco tequila		 Peppermint schnapps	 Grapefruit Juice
+ Blanco tequila	 Vodka		 Fresh Lime Juice	 Honey Syrup
+ Blanco tequila	 Dry Vermouth		 Triple Sec	 Orange juice	 Lime wedge
+ Blanco tequila	 White creme de cacao		 Benedictine
+ Blanco tequila	 Grapefruit Juice		 Heavy cream
+ Juice of a Lemon	 Powdered Sugar		 Agave nectar	 Egg White	 Peychaud's Bitters
+ Old Mr. Boston Dry Gin	 Bitters		 Old Thompson Blended Whiskey
+ Brandy	 Hard cider		 Dry Vermouth	 Benedictine
+Anejo tequila	 Honey liqueur		 Ginger ale
+Lime wedges	 Whole strawberry		 Maraschino liqueur	 The Bitter Truth's Jerry Thomas' Own Decanter Bitters
+ Mezcal	 Palo cortado or oloroso sherry		 Simple Syrup	 Blanco tequila
+ orange juice	champagne		 Allspice liqueur (pimento dram)	 White creme de cacao
+ Reposado tequila	 White Curacao
+ Blanco tequila	 Creme de Cassis		 Olive brine	 Balsamic vinegar
+ Blanco tequila	 Sweet Vermouth		 Fresh Lime Juice
+ Whole strawberry, hulled	 Blanco tequila		 Campari	 Grapefruit soda
+ Blanco tequila	 Fresh grapefruit juice		 Campari	 Triple Sec	 Agave nectar, strawberry slice
+ Anejo tequila	 Lillet Rouge		 Fresh Lime Juice	 Campari	 Angostura Bitters, lime wheel
+ Reposado tequila	 Orange juice		 Orange curacao	 Orange Bitters
+ cherry-flavored brandy	 Gin		 Fresh lemon juice	 Grenadine
+ Old Mr. Boston Five Star Brandy	 Old Mr. Boston Rum		 Fresh lemon juice
+ Blanco tequila	 Peach schnapps		  Old Mr. Boston Triple Sec	 Juice of a Lime
+ Anejo tequila	 Oloroso sherry		 Blue curacao	 Simple Syrup
+ Lime wedge coarse salt	 Blanco tequila		 Drambuie	 Rhubarb bitters
+ Old Mr. Boston Rum	 Apple Brandy		 Red wine	 each Triple Sec, simple syrup	 Lemon-lime soda
+ Blanco tequila	 Triple Sec		 Sweet Vermouth
+ Blanco tequila	 Coffee liqueur		 Honey liqueur	 Fresh Lime Juice	 Lime wedge
+ Lime juice, coarse salt	 Blanco tequila		 Lemon twist
+ Blanco tequila	 Tomato Juice		 Blue curacao	 Fresh Lime Juice
+ Pineapple Juice	 Juice of a Lime		 Fresh lemon juice	 Hot red pepper sauce	 Lemon wheel
+ Blanco tequila	 Amaretto		 Old Mr. Boston Imported Rum
+ Old Mr. Boston Dry Gin	 Dry Vermouth		 Pineapple Juice	 Grenadine
+ Anejo tequila	 Agave nectar		 Juice of a Blood Orange
+ Cucumber	 Fresh cilantro sprigs		 Angostura Bitters	 Orange Bitters
+ Cognac	 Sweet sherry, preferably Pedro Ximenez		 Blanco tequila	 Fresh Lime Juice	 Jalapeno hot pepper sauce, cucumber slice
+ Old Thompson Blended Whiskey	 Old Mr. Boston Sloe Gin		 Egg Yolk
+ Blanco tequila	 Orange juice
+ Old Mr. Boston Five Star Brandy	 Port		 Pineapple Juice	 Lemon-lime soda
+ Old Mr. Boston Dry Gin	 Old Mr. Boston Apricot Flavored Brandy		  Old Mr. Boston Triple Sec		 Old Mr. Boston Dry Gin
+ Sake	 Gin		 Grenadine
+ Gin	 Dry Vermouth		 Maraschino liqueur	 Unsprayed rose petal
+ Gin	 cherry-flavored brandy		 Blue curacao	 Angostura Bitters
+ Gin	 Fresh lemon juice		 Yellow Chartreuse
+ Gin	 Grapefruit Juice		 Maple Syrup	 Orange Bitters
+ Old Mr. Boston Dry Gin	 Old Mr. Boston Rum		 Green Chartreuse
+ Fresh sage leaves	 Gin		 Old Mr. Boston Creme de Cacao	 Desmond & Duff Scotch Whisky
+ Absinthe	 Gin		 Fresh Lime Juice	 Limoncello	 Raspberries, lemon twist
+ Gin	 Dry Vermouth		 Triple Sec	 Simple Syrup
+ Brandy	 Sweet Vermouth		 Orange juice	 Triple Sec
+ Gin	 Fresh lemon juice		 Angostura Bitters
+ Gin	 Triple Sec		 Triple Sec	 Simple Syrup
+ Gin	 Dry Vermouth
+ Grenadine	 Juice of a Lemon		 Apricot-Flavored Brandy	 Fresh lemon juice
+ Gin	 Dry Vermouth		 Swedish Punch
+ Old Mr. Boston Rum	 Sweet Vermouth		 Apple Brandy	 Apricot-Flavored Brandy
+ Gin	 Triple Sec		 Apple Flavored Brandy	 Grenadine
+Lime wedge, superfine sugar	 Gin		 Creme de violette	 Fresh lemon juice
+ Juice of Orange	 Dry Vermouth		 Triple Sec	 Fresh Lime Juice
+ Gin	 Dry Vermouth		 Sweet Vermouth	 Old Mr. Boston Dry Gin
+ Gin	 Triple Sec		 Triple Sec
+ Gin	 Grapefruit Juice		 Pineapple Juice
