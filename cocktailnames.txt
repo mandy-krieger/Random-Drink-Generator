@@ -47,7 +47,7 @@ Grapefruit Gimlet Royale
 Hair Raiser
 Godmother
 Green Opal
-Green Hornet (Dry)
+Green Hornet
 Green Fizz
 Godchild
 Grape Vodka Froth
@@ -152,8 +152,8 @@ Montreal Club Bouncer
 Monte Carlo Imperial Highball
 Irish Shillelagh
 Melon Cocktail
-Martini (Medium)
-Martini (Dry) (5-to-1)
+Martini Medium
+Martini Dry
 Mamie's Sister
 Irish Rickey
 Maiden's Prayer
@@ -180,7 +180,7 @@ Hotel D'alsace
 Jamaica Granito
 Gin Sling
 Gin Milk Punch
-Horse's Neck (With A Kick)
+Horse's Neck
 Gin and It
 Gin Cocktail
 West Side
@@ -196,7 +196,7 @@ Farmer's Cocktail
 Warsaw Cocktail
 Emerald Isle Cocktail
 Du Barry Cocktail
-Dry Martini (5-to-1)
+Dry Martini
 Dixie Cocktail
 Delmonico No. 2
 Hole-In-One
@@ -205,7 +205,7 @@ Caruso
 Bulldog Highball
 Brown Cocktail
 Bronx Terrace Cocktail
-Bronx Cocktail (Dry)
+Bronx Cocktail
 Hill Dog
 Blue Devil Cocktail
 Blue Canary
@@ -261,7 +261,7 @@ After Dinner Cocktail
 Harvest Moon
 Red Raider
 Vodka and Apple Juice
-Mint Julep (Southern Style)
+Mint Julep Southern Style
 Limestone
 Grounds For Divorce
 Gentleman's Cocktail
@@ -280,7 +280,8 @@ Sake Martini
 Godfather
 Jack-In-The-Box
 Saronno
-Saronno Colada (Nutty Colada)
+Saronno Colada
+Nutty Colada
 Saronno Mist
 Saronno Rose
 Gilchrist
@@ -409,9 +410,9 @@ The Blinker
 Pike's Peak Cooler
 Blarney Stone Cocktail
 Pacman
-Lemonade (Golden)
+Lemonade
 Black Hawk
-Lemonade (Egg)
+Lemonade
 Bensonhurst
 Chocolate Daisy
 The Beautiful Day
@@ -500,7 +501,7 @@ Prado
 Port Wine Flip
 Port Wine Cobbler
 Nijinksy Blini
-Affinity Cocktail (whisky)
+Affinity Cocktail
 Plain Vermouth Cocktail
 Ping-Pong Cocktail
 Moscow Mule
@@ -560,7 +561,7 @@ Rattlesnake Cocktail
 Ramos Fizz
 San Francisco
 Sand-Martini Cocktail
-Sake Martini (Sakini)
+Sake Martini
 Lemon Crush
 Rye Whiskey Cocktail
 Leaves Of Grass
@@ -570,7 +571,7 @@ L.A. Sunrise
 White Rose Cocktail
 White Plush
 White Elephant
-Whiskey Toddy (cold)
+Whiskey Toddy
 Kretchma Cocktail
 Whiskey Skin
 Whiskey Milk Punch
@@ -621,7 +622,7 @@ Bachelor's Bait Cocktail
 Bushranger
 Sunset at Gowanus
 Bulldog Highballl
-Bucks Fizz (Mimosa)
+Bucks Fizz
 Buckjones
 Stormy Colada
 Bronx SIlver Cocktail
@@ -650,7 +651,7 @@ Apple Blow Fizz
 Antoine Special
 Ante
 S & V
-Rum Toddy (Cold)
+Rum Toddy
 Deauville Cocktail
 Allies Cocktail
 Rum Swizzle
@@ -822,7 +823,7 @@ Rosita
 Mariposa Cocktail
 Margarita Cocktail
 The Refuge
-Manhattan Cocktail (dry)
+Manhattan Cocktail
 Mamie Taylor
 Quetzalcoatl
 Zero Mint
@@ -881,11 +882,11 @@ Fallen Angel Cocktail
 The Poncho
 Hai Karate
 Cara Sposa
-Traditional Martini (Dry)
+Traditional Martini
 Pina Agave
 Grande Guignol
 Pancho Villa
-Paloma (Natural)
+Paloma
 Golden Friendship
 Paloma
 Pacific Sunshine
