@@ -114,7 +114,7 @@ Bacardi Cocktail
 Apple Pie No. 1
 Yolanda
 Yellow Rattler
-Why Not?
+Why Not
 Amaretto Stinger
 What The Hell
 Webster Cocktail
@@ -456,7 +456,7 @@ Canadian Pineapple
 Calm Voyage
 Pink Lemonade
 Caledonia
-Caf_ di Amaretto
+Cafe di Amaretto
 Cafe De Paris Cocktail
 Aztec's Mark
 Fontainebleau Special
@@ -837,7 +837,7 @@ Mariposa
 Mandeville
 K.C.B. Cocktail
 Malmaison
-Mai-Tai (Trader Vic Version)
+Mai-Tai
 Jersey Lightning Cocktail
 Lumination
 Jamaica Glow Cocktail
@@ -936,8 +936,9 @@ Flower Power
 Cablegram Highball
 Cabaret Cocktail
 Bulla's Eye
-El Oso (The Bear)
-El Ni_o
+El Oso
+The Bear
+El Nino
 El Molino
 Bucks Fizz
 Dirty Daisy
