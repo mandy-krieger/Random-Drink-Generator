@@ -1,3 +1,3 @@
 # Random-Drink-Generator
-# it does stuff
+# to make your very own novelty cocktail
 # yea
