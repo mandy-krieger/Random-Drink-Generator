@@ -2,17 +2,18 @@
 <html lang="en">
 <head>
     <style>
-        .button {
+        input[type=submit] {
           background-color: #70dbdb; /*Teal*/
           border: none;
           color: white;
-          padding: 40px 40px;
+          padding: 20px 20px;
           text-align: center;
           text-decoration: none;
           display: inline-block;
           font-size: 22px;
           margin: 4px 2px;
           cursor: pointer;
+          border-radius: 12px;
         }
 
         .input {
@@ -30,10 +31,15 @@
 <center>
 <h1><b>Welcome to our drink generator</b></h1>
 
-<h2>Please insert an ingredient: <input type="text" placeholder="ingredient..."> </h2>
+<h2>Please insert an ingredient: </h2><br>
+    <form action="random_drinks_front" method="get">
+    Your ingredient <input type="text" name="ingred"><br> <br>
+    <input type="submit" value="please">
+</form>
 
 <!--<input type="button"> -->
-<button class="button"><i>please</i>!</button>
+<!--<button class="button"><i>please</i>!</button>-->
+
 </center>
 </body>
 </html>
