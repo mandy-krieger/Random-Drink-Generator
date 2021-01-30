@@ -433,7 +433,7 @@ cider, anisette, powdered sugar, whole egg
  fresh basil leaves, vodka, cherry-flavored brandy, angostura bitters
  vodka, cranberry juice, green chartreuse, fresh lime juice, passion fruit juice, basil leaf
  absinthe substitute, water, orange juice, lime wedge
- vodka, lychee liqueur, old mr. boston anisette , orange bitters
+ vodka, lychee liqueur, anisette , orange bitters
  mr. boston vodka, dry vermouth, fresh orange juice, pineapple juice, canned pitted lychee nut stuffed with a small pineapple leaf
  black cherry-flavored vodka, white creme de cacao
  vodka, blanco tequila, chile syrup, grated bittersweet chocolate
@@ -661,7 +661,7 @@ whole egg, powdered sugar, orange juice, whole egg
  applejack, brandy
  light rum, orange juice, triple sec
  light rum, fresh lime juice
- old mr. boston creme de menthe, desmond, duff scotch whisky, soda water
+ creme de menthe, desmond, duff scotch whisky, soda water
  light rum, pineapple juice
  light rum, 151-proof rum, grenadine
  light rum, dry vermouth, simple syrup, angostura bitters
@@ -671,7 +671,7 @@ whole egg, powdered sugar, orange juice, whole egg
  armagnac, grand marnier, simple syrup, grenadine
  light rum, simple syrup, simple syrup, orange juice, orange zest
  light rum, fresh lime juice, soda water
- old mr. boston blended whiskey, old mr. boston dry gin, simple syrup
+ blended whiskey, dry gin, simple syrup
  light rum, simple syrup, lemon juice, powdered sugar
  jamaica rum, fresh lemon juice, soda water
  absinthe, pastis, cachaca, fresh orange juice, grenadine
@@ -682,7 +682,7 @@ whole egg, powdered sugar, orange juice, whole egg
  dark rum, orange curacao, fresh lemon juice, raspberry syrup
  brandy, light rum, fresh lemon juice, each orange juice and simple syrup, freshly grated nutmeg, orange wheel
  dark rum, grand marnier, apricot-flavored brandy, fresh lime juice
- old mr. boston five star brandy, worcestershire sauce, passion fruit juice, cranberry juice, champagne
+ five star brandy, worcestershire sauce, passion fruit juice, cranberry juice, champagne
  light rum, sweet vermouth, tomato catsup, vinegar, egg yolk, 1 oz
  light rum, orange juice
  light rum, fresh lime juice, each fresh lime juice, jamaica rum, grenadine, pineapple juice, lemon, orange, and pineapple slices; maraschino cherry; fresh mint sprig dipped in sugar
@@ -708,22 +708,22 @@ whole egg, powdered sugar, orange juice, whole egg
  lime wedges, fresh mint leaves, fresh lime juice
  vodka, campari, simple syrup, light rum, fresh mint sprig
  egg yolk, powdered sugar, chilled champagne
- citrus-flavored vodka, simple syrup, old mr. boston five star brandy
+ citrus-flavored vodka, simple syrup, five star brandy
  vodka, light rum, fresh lemon juice, cranberry juice, lemon wheel
  vodka, coffee-flavored brandy, coconut-flavored rum, grenadine, pineapple wedge, maraschino cherry
  vodka, cranberry juice, half-and-half, vodka, lime wedge
- old mr. boston anisette , old mr. boston five star brandy, lime wedge, old mr. boston anisette , egg white
+ anisette , five star brandy, lime wedge, anisette , egg white
  lemon wedge, celery salt, vodka, egg white
  vodka, cold beef bouillon, tomato-clam juice, prepared horseradish, celery stalk, lemon wedge
  vodka, lemonade, worcestershire sauce, salt
  vodka, creme de banana, lime wheel
  cognac, calvados, apple brandy,, applejack, fresh orange juice
- old mr. boston apricot flavored brandy, old mr. boston dry gin, sweet vermouth
- old mr. boston tequila, dry vermouth, dry vermouth, lemon juice
+ apricot flavored brandy, dry gin, sweet vermouth
+ tequila, dry vermouth, dry vermouth, lemon juice
  citrus-flavored vodka, lillet blanc, bitters
  vodka, fresh lemon juice, lemon twist
  vodka, blue curacao, simple syrup, light rum
- old mr. boston white creme de menthe, old mr. boston five star brandy, fresh lemon juice, simple syrup
+ white creme de menthe, five star brandy, fresh lemon juice, simple syrup
  vodka, tomato juice
  chilled rhine wine, sauterne,carbonated water, fresh lime juice, worcestershire sauce, freshly ground black pepper to taste, lime wedge, celery stalk
  vodka, tomato juice
@@ -731,10 +731,10 @@ whole egg, powdered sugar, orange juice, whole egg
  vodka, coffee liqueur, blood, navel orange half-wheel
  vodka, coffee liqueur
  black cherry-flavored vodka, white chocolate liqueur, fresh lemon juice
- old mr. boston vodka, unsweetened grape juice, black cherry juice
- old mr. boston dry gin, old mr. boston anisette , lemon juice, powdered sugar
+ vodka, unsweetened grape juice, black cherry juice
+ dry gin, anisette , lemon juice, powdered sugar
  juice of a lemon, powdered sugar, sweet cream
- vodka, light rum, old mr. boston dry gin, creme yvette
+ vodka, light rum, dry gin, creme yvette
  brandy, sweet vermouth, fresh lemon juice, milk, lemon twist
  raspberry-flavored vodka, triple sec, white creme de menthe
  lime wedge, superfine sugar, citrus-flavored vodka, raspberry-flavored liqueur, fresh lime juice, fresh blackberries and raspberries
@@ -742,33 +742,33 @@ whole egg, powdered sugar, orange juice, whole egg
  vodka, chilled beer, ale, vodka, fresh lemon juice, soda water, strawberry slide, fresh basil leaf
  fresh basil leaves, white grapes, hot red pepper sauce
  irish whiskey, dry vermouth, vodka, fresh lime juice, ginger ale
- vodka, fresh lime juice, old mr. boston green creme de menthe
+ vodka, fresh lime juice, green creme de menthe
  desmond, duff scotch whisky,ginger ale, white curacao, triple sec, apricot-flavored brandy
  lemon-flavored vodka, pineapple juice,lemon twist
  pear-flavored vodka, cinnamon schnapps, triple sec
  blanco tequila, fresh lemon juice, dry vermouth, white creme de cacao
- old mr. boston green creme de menthe, green chartreuse, simple syrup, yellow chartreuse
- old mr. boston grape vodka,cola, irish whiskey, bitters
+ green creme de menthe, green chartreuse, simple syrup, yellow chartreuse
+ grape vodka,cola, irish whiskey, bitters
  cucumber, fresh sage leaves,lemon slice
  cognac, ginger ale, soda water, fresh lime juice, blanco tequila, ginger ale, strawberry slice
- old mr. boston apricot flavored brandy, apple brandy, lemon twist
- lime wedge, coarse salt, blanco tequila, old mr. boston dry gin, lemon juice
- old mr. boston five star brandy, worcestershire sauce, fresh lime juice, simple syrup
- old mr. boston dry gin, whole egg, tomato catsup, vinegar
+ apricot flavored brandy, apple brandy, lemon twist
+ lime wedge, coarse salt, blanco tequila, dry gin, lemon juice
+ five star brandy, worcestershire sauce, fresh lime juice, simple syrup
+ dry gin, whole egg, tomato catsup, vinegar
  blanco tequila, mezcal, pepper and salt
  reposado blanco tequila, pineapple juice, yellow chartreuse, elderflower liqueur
 absinthe, absinthe, fresh celery juice, fresh lime juice
 orange peel,pineapple, blanco tequila, fresh lime juice
- blanco tequila, dark creme de cacao, old mr. boston dry gin, sweet vermouth
- mr. boston creme de noyaux , old mr. boston white creme de cacao, half-and-half
+ blanco tequila, dark creme de cacao, dry gin, sweet vermouth
+ mr. boston creme de noyaux , white creme de cacao, half-and-half
  egg white, grenadine, light sweet cream
- gold tequila, blue curacao, sweet cream, old mr. boston dry gin
+ gold tequila, blue curacao, sweet cream, dry gin
  blanco tequila, fresh lime juice, tropical fruit schnapps
- dubonnet, old mr. boston five star brandy, aperol, yellow chartreuse, orange half-wheel
+ dubonnet, five star brandy, aperol, yellow chartreuse, orange half-wheel
  blanco tequila, fresh lemon, lime juice, absinthe substitute
  blanco tequila, dry vermouth, tonic water
- old mr. boston rum, juice of a lime, angostura bitters
- sweet cream, old mr. boston triple sec, powdered sugar, passion fruit juice
+ rum, juice of a lime, angostura bitters
+ sweet cream, triple sec, powdered sugar, passion fruit juice
  blanco tequila, orange juice, jamaica rum
  coffee-flavored brandy, white creme de menthe, grenadine
  coarse salt, blanco tequila, half-and-half
@@ -781,45 +781,45 @@ orange peel,pineapple, blanco tequila, fresh lime juice
  blanco tequila, pineapple juice, blanco tequila, agave nectar, lime wheel
  blanco tequila, sweet vermouth, fresh lime juice
  old thompson blended whiskey, absinthe substitute, angostura bitters
- old mr. boston dry gin, old thompson blended whiskey
- powdered sugar, egg yolk, old mr. boston five star brandy
- blanco tequila, fresh lemon juice, old mr. boston five star brandy, cayenne pepper
+ dry gin, old thompson blended whiskey
+ powdered sugar, egg yolk, five star brandy
+ blanco tequila, fresh lemon juice, five star brandy, cayenne pepper
  egg white, powdered sugar, simple syrup
- blanco tequila, triple sec, sweet cream, old mr. boston dry gin
+ blanco tequila, triple sec, sweet cream, dry gin
  lemon wedge, superfine sugar, brandy, cranberry juice, pineapple juice, lime wheel
  blanco tequila, limoncello, fresh lemon juice, orange curacao
  lime wedge, superfine sugar, coarse salt, fresh strawberries, cut in half, fresh lemon juice
- old mr. boston apricot flavored brandy, old mr. boston dry gin, strawberry schnapps, blanco tequila, fresh lime juice, whole strawberry
- old mr. boston five star brandy, yellow chartreuse, dry vermouth, lemon juice
+ apricot flavored brandy, dry gin, strawberry schnapps, blanco tequila, fresh lime juice, whole strawberry
+ five star brandy, yellow chartreuse, dry vermouth, lemon juice
  cucumber,fresh mint leaves, benedictine, peychaud bitters
  benedictine, whole egg, simple syrup, jalapeno-infused tequila, cucumber slice, fresh mint sprig
- old mr. boston vodka, benedictine
+ vodka, benedictine
  blanco tequila, coffee-flavored brandy, angostura bitters
- old mr. boston vodka, old mr. boston green creme de menthe, fresh lime juice
- juice of a lemon, powdered sugar, old mr. boston white creme de cacao
- smoky scotch whisky, such as islay, skye, reposado tequila, old mr. boston dry gin, creme yvette
+ vodka, green creme de menthe, fresh lime juice
+ juice of a lemon, powdered sugar, white creme de cacao
+ smoky scotch whisky, such as islay, skye, reposado tequila, dry gin, creme yvette
  blanco tequila, sloe gin, triple sec, fresh lemon juice, lime wedge
- old mr. boston dry gin, dry vermouth, fresh lime juice
+ dry gin, dry vermouth, fresh lime juice
  blanco tequila, white creme de cacao, benedictine
- old mr. boston dry gin, egg white, heavy cream, grenadine
+ dry gin, egg white, heavy cream, grenadine
  juice of a lemon, powdered sugar, creme yvette
- juice of a lime, old mr. boston orange flavored gin , old mr. boston orange flavored gin , milk
- old mr. boston orange flavored gin ,ginger ale
+ juice of a lime, orange flavored gin , orange flavored gin , milk
+ orange flavored gin ,ginger ale
  juice of a lemon, powdered sugar,lemon twist
- juice of a lemon, old mr. boston orange flavored gin , old mr. boston orange flavored gin
+ juice of a lemon, orange flavored gin , orange flavored gin
  reposado tequila, campari
- old mr. boston dry gin, orange juice, vanilla syrup, preferably b.a. reynold's, fresh lime juice, ginger beer, 1 oz
+ dry gin, orange juice, vanilla syrup, preferably b.a. reynold's, fresh lime juice, ginger beer, 1 oz
  blanco tequila, melon liqueur, powdered sugar
  cherry-flavored brandy, superfine sugar, brandy, fresh grapefruit juice, fresh grapefruit juice
  mezcal, rye whiskey, cherry-flavored brandy, fresh lemon juice, grenadine, maraschino cherry
- old mr. boston dry gin, curacao, dry vermouth, benedictine, orange twist
- old mr. boston sloe gin, sweet vermouth, dubonnet
+ dry gin, curacao, dry vermouth, benedictine, orange twist
+ sloe gin, sweet vermouth, dubonnet
  blanco tequila, fresh lime juice, bitters
  blanco tequila, falernum, creme de cassis, orange curacao
  reposado tequila, cherry heering, simple syrup, fresh lime juice
  blanco tequila, sweet vermouth, batavia arrack, light rum, fresh lime juice
- old mr. boston rum, old mr. boston five star brandy, dry vermouth, campari, lemon twist
- old mr. boston tequila, old mr. boston triple sec, lemon juice, orange juice
+ rum, five star brandy, dry vermouth, campari, lemon twist
+ tequila, triple sec, lemon juice, orange juice
  blanco tequila, aperol, lemon, lime juice
  dry vermouth, old thompson blended whiskey, fresh lime juice, grapefruit juice
  juice of a lime, desmond, duff scotch whisky
@@ -833,32 +833,32 @@ orange peel,lump sugar, fresh lime juice, fresh lemon juice
  aged rhum agricole, amaretto, angostura bitters
  light rum, brandy, fresh lime juice, grapefruit juice
  light rum, dark rum, fresh lemon juice, orange juice
- old mr. boston kummel, old mr. boston dry gin, fresh lemon juice, anisette
- anisette, light rum, old mr. boston apricot flavored brandy, lemon juice
+ kummel, dry gin, fresh lemon juice, anisette
+ anisette, light rum, apricot flavored brandy, lemon juice
  dark rum, preferably jamaican, orange curacao, cream sherry, fresh lemon juice
  apple brandy, sweet vermouth, fresh lime juice, orgeat syrup, fresh mint sprig; pineapple wedge skewered with maraschino cherry
  fresh ginger, simple syrup, juice of a lime
- old mr. boston dry gin, claret, dark rum, vs cognac, lemon twist
+ dry gin, claret, dark rum, vs cognac, lemon twist
  dark rum, amaretto, orange juice, jamaica rum
  apple brandy, pineapple juice, cola
- old mr. boston triple sec, absinthe substitute, bitters
+ triple sec, absinthe substitute, bitters
  151-proof rum, fresh lime juice, maraschino, bitters
  light rum, sweet vermouth, grenadine
  light rum, gin
  brandy, yellow chartreuse, fresh lemon juice, triple sec
- juice of a lime, old mr. boston apricot flavored brandy, fresh lemon juice, simple syrup
- aged rhum agricole, cold brewed coffee, old mr. boston rum
+ juice of a lime, apricot flavored brandy, fresh lemon juice, simple syrup
+ aged rhum agricole, cold brewed coffee, rum
  spiced rum, mezcal, allspice liqueur, simple syrup
  desmond, duff scotch whisky, dry vermouth, fresh lime juice, simple syrup
  dark rum, coconut rum, lemon juice, orange bitters
  light rum, triple sec, ginger liqueur, mango nectar, fresh lime juice, lime wheel
- old mr. boston 100 proof vodka, old mr. boston rock and rye, fresh lemon juice, orange juice, small pineapple slice
- old mr. boston dry gin, old mr. boston anisette , lemon juice
+ 100 proof vodka, rock and rye, fresh lemon juice, orange juice, small pineapple slice
+ dry gin, anisette , lemon juice
  light rum, dark rum, absinthe substitute
- juice of a lemon, old mr. boston kummel, falernum, fresh lime juice, ginger ale, lime wheel
- old mr. boston green creme de menthe, old mr. boston white creme de cacao, old mr. boston green creme de menthe, old mr. boston dry gin
+ juice of a lemon, kummel, falernum, fresh lime juice, ginger ale, lime wheel
+ green creme de menthe, white creme de cacao, green creme de menthe, dry gin
  light rum, melon liqueur, light sweet cream
- yellow chartreuse, old mr. boston apricot flavored brandy, pineapple juice, grenadine
+ yellow chartreuse, apricot flavored brandy, pineapple juice, grenadine
  light rum, fresh lime juice
  dark rum, triple sec, green creme de menthe, triple sec, lime wheel
  dark rum, madeira, fresh lime juice, simple syrup
@@ -867,17 +867,17 @@ orange peel,lump sugar, fresh lime juice, fresh lemon juice
  creme de violette, light rum, maraschino cherry
  each light rum, gin, vodka, blanco tequila, blue curacao, cherry-flavored brandy, fresh lime juice, simple syrup
  rose's lime juice, powdered sugar, simple syrup, fresh lemon juice, orange wheel
- each dark rum, light rum, passion fruit syrup, old mr. boston dry gin
+ each dark rum, light rum, passion fruit syrup, dry gin
  light rum, apricot-flavored brandy, lime juice, orange juice, orange half-wheel, maraschino cherry
  cachaca, fresh lime juice, fresh lime juice
  dark rum, vanilla liqueur, honey syrup, champagne, sparkling wine, mint sprig
  sweet vermouth, desmond, duff scotch whisky, simple syrup, creme fraiche, freshly grated nutmeg
- old mr. boston green creme de menthe, old mr. boston white creme de cacao, bitters, sugar syrup
- light rum, pineapple juice, old mr. boston vodka
+ green creme de menthe, white creme de cacao, bitters, sugar syrup
+ light rum, pineapple juice, vodka
  light rum, pineapple juice, fresh lemon juice
- old mr. boston five star brandy, bitters, cranberry juice, orange juice
- juice of a lime, old mr. boston dry gin, old mr. boston triple sec, powdered sugar
- reposado tequila, dry vermouth, bitters, old mr. boston white creme de menthe
+ five star brandy, bitters, cranberry juice, orange juice
+ juice of a lime, dry gin, triple sec, powdered sugar
+ reposado tequila, dry vermouth, bitters, white creme de menthe
  dark rum, fresh lime juice, maraschino liqueur, peychaud's bitters
  coffee-flavored brandy, triple sec, pineapple juice, orange juice, angostura bitters
  gin, dry vermouth, half-and-half
@@ -894,9 +894,9 @@ orange peel,lump sugar, fresh lime juice, fresh lemon juice
  light rum, fresh grapefruit juice, fresh lemon juice, triple sec, angostura bitters, flamed lemon twist
  calvados, orange juice, ginger liqueur, fresh lime juice
  juice of a lime, powdered sugar, triple sec, orange bitters
- reposado tequila, mezcal, old mr. boston rum
+ reposado tequila, mezcal, rum
  pineapple juice, juice of a lime, agave nectar, angostura bitters
- light rum, fresh lemon juice, old mr. boston rum, old mr. boston triple sec
+ light rum, fresh lemon juice, rum, triple sec
  blanco tequila, orange juice, fresh lime juice, passion fruit syrup
  old kentucky tavern bourbon whiskey, madeira, blood orange juice, agave nectar, whiskey barrel bitters
  reposado tequila, palo cortado, oloroso sherry, grenadine
@@ -908,18 +908,18 @@ orange peel,lump sugar, fresh lime juice, fresh lemon juice
  blanco tequila, cranberry juice, sweet vermouth, white creme de cacao, lime twist
  blackberry-flavored brandy, dry sherry, orange juice, fresh lime juice
  juice of a lime, dubonnet, triple sec, half-and-half
- light rum, fresh lime juice, old mr. boston dry gin
+ light rum, fresh lime juice, dry gin
  dark rum, dubonnet rouge, simple syrup, grenadine, lemon half-wheel, maraschino cherry
- old mr. boston five star brandy, old mr. boston wild cherry flavored brandy, benedictine, triple sec
- light rum, sweet vermouth, old mr. boston triple sec, grenadine
- juice of a lemon, old mr. boston triple sec, triple sec
- blanco tequila, simple syrup, old mr. boston dry gin
+ five star brandy, wild cherry flavored brandy, benedictine, triple sec
+ light rum, sweet vermouth, triple sec, grenadine
+ juice of a lemon, triple sec, triple sec
+ blanco tequila, simple syrup, dry gin
  blanco tequila, fresh lemon juice, fresh lime juice, pomegranate molasses, lime wheel
  light rum, dry vermouth, pineapple juice, grenadine
  lime wedge, coarse salt, blanco tequila, angostura bitters
  blanco tequila, each lillet blanc and lillet rouge, cointreau triple sec, fresh lime juice
- lemon juice, old mr. boston triple sec, apple juice, fresh lime juice, blood orange wheel
- blanco tequila, fresh grapefruit juice, old mr. boston rum
+ lemon juice, triple sec, apple juice, fresh lime juice, blood orange wheel
+ blanco tequila, fresh grapefruit juice, rum
  reposado tequila, manzanilla sherry, fresh lime juice, yellow chartreuse, grapefruit twist
  brandy, light rum, pear liqueur
  lime wedge, superfine sugar, gold tequila, simple syrup, milk
@@ -932,7 +932,7 @@ orange peel,lump sugar, fresh lime juice, fresh lemon juice
  blanco tequila, white creme de cacao, benedictine
  blanco tequila, grapefruit juice, heavy cream
  juice of a lemon, powdered sugar, agave nectar, egg white, peychaud's bitters
- old mr. boston dry gin, bitters, old thompson blended whiskey
+ dry gin, bitters, old thompson blended whiskey
  brandy, hard cider, dry vermouth, benedictine
 anejo tequila, honey liqueur, ginger ale
 lime wedges, whole strawberry, maraschino liqueur, the bitter truth's jerry thomas' own decanter bitters
@@ -946,32 +946,32 @@ lime wedges, whole strawberry, maraschino liqueur, the bitter truth's jerry thom
  anejo tequila, lillet rouge, fresh lime juice, campari, angostura bitters, lime wheel
  reposado tequila, orange juice, orange curacao, orange bitters
  cherry-flavored brandy, gin, fresh lemon juice, grenadine
- old mr. boston five star brandy, old mr. boston rum, fresh lemon juice
- blanco tequila, peach schnapps,  old mr. boston triple sec, juice of a lime
+ five star brandy, rum, fresh lemon juice
+ blanco tequila, peach schnapps,  triple sec, juice of a lime
  anejo tequila, oloroso sherry, blue curacao, simple syrup
  lime wedge coarse salt, blanco tequila, drambuie, rhubarb bitters
- old mr. boston rum, apple brandy, red wine, each triple sec, simple syrup, lemon-lime soda
+ rum, apple brandy, red wine, each triple sec, simple syrup, lemon-lime soda
  blanco tequila, triple sec, sweet vermouth
  blanco tequila, coffee liqueur, honey liqueur, fresh lime juice, lime wedge
  lime juice, coarse salt, blanco tequila, lemon twist
  blanco tequila, tomato juice, blue curacao, fresh lime juice
  pineapple juice, juice of a lime, fresh lemon juice, hot red pepper sauce, lemon wheel
- blanco tequila, amaretto, old mr. boston imported rum
- old mr. boston dry gin, dry vermouth, pineapple juice, grenadine
+ blanco tequila, amaretto, imported rum
+ dry gin, dry vermouth, pineapple juice, grenadine
  anejo tequila, agave nectar, juice of a blood orange
  cucumber, fresh cilantro sprigs, angostura bitters, orange bitters
  cognac, sweet sherry, preferably pedro ximenez, blanco tequila, fresh lime juice, jalapeno hot pepper sauce, cucumber slice
- old thompson blended whiskey, old mr. boston sloe gin, egg yolk
+ old thompson blended whiskey, sloe gin, egg yolk
  blanco tequila, orange juice
- old mr. boston five star brandy, port, pineapple juice, lemon-lime soda
- old mr. boston dry gin, old mr. boston apricot flavored brandy,  old mr. boston triple sec, old mr. boston dry gin
+ five star brandy, port, pineapple juice, lemon-lime soda
+ dry gin, apricot flavored brandy,  triple sec, dry gin
  sake, gin, grenadine
  gin, dry vermouth, maraschino liqueur, unsprayed rose petal
  gin, cherry-flavored brandy, blue curacao, angostura bitters
  gin, fresh lemon juice, yellow chartreuse
  gin, grapefruit juice, maple syrup, orange bitters
- old mr. boston dry gin, old mr. boston rum, green chartreuse
- fresh sage leaves, gin, old mr. boston creme de cacao, desmond, duff scotch whisky
+ dry gin, rum, green chartreuse
+ fresh sage leaves, gin, creme de cacao, desmond, duff scotch whisky
  absinthe, gin, fresh lime juice, limoncello, raspberries, lemon twist
  gin, dry vermouth, triple sec, simple syrup
  brandy, sweet vermouth, orange juice, triple sec
@@ -980,10 +980,10 @@ lime wedges, whole strawberry, maraschino liqueur, the bitter truth's jerry thom
  gin, dry vermouth
  grenadine, juice of a lemon, apricot-flavored brandy, fresh lemon juice
  gin, dry vermouth, swedish punch
- old mr. boston rum, sweet vermouth, apple brandy, apricot-flavored brandy
+ rum, sweet vermouth, apple brandy, apricot-flavored brandy
  gin, triple sec, apple flavored brandy, grenadine
 lime wedge, superfine sugar, gin, creme de violette, fresh lemon juice
  juice of orange, dry vermouth, triple sec, fresh lime juice
- gin, dry vermouth, sweet vermouth, old mr. boston dry gin
+ gin, dry vermouth, sweet vermouth, dry gin
  gin, triple sec, triple sec
  gin, grapefruit juice, pineapple juice
